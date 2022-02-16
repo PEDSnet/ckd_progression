@@ -1,0 +1,150 @@
+concept_id,concept_name,concept_code,vocabulary_id
+4289142,Eclampsia added to pre-existing hypertension,69909000,SNOMED
+43020424,Hypertensive emergency,132721000119104,SNOMED
+4032952,Renal sclerosis with hypertension,14973001,SNOMED
+4049389,Paroxysmal hypertension,23130000,SNOMED
+197930,"Renal hypertension complicating pregnancy, childbirth and the puerperium",198949009,SNOMED
+4108213,Hypertension secondary to drug,194791005,SNOMED
+4034094,Moderate proteinuric hypertension of pregnancy,237281009,SNOMED
+44809569,Stage 2 hypertension,846371000000103,SNOMED
+44783643,Intermittent hypertension,697929007,SNOMED
+4262182,Hypertension with albuminuria,397748008,SNOMED
+320456,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",198945003,SNOMED
+45757447,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,140131000119102,SNOMED
+4118910,Maternal hypertension,288250001,SNOMED
+192684,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",198953006,SNOMED
+44809026,Stage 1 hypertension,843821000000102,SNOMED
+44783644,Labile hypertension due to being in a clinical environment,697930002,SNOMED
+4174979,Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy,48552006,SNOMED
+4277110,Pre-existing hypertension complicating AND/OR reason for care during pregnancy,65402008,SNOMED
+4006325,Hypertension secondary to renal disease in obstetric context,111438007,SNOMED
+44811933,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,908651000000101,SNOMED
+4023318,Malignant hypertension complicating AND/OR reason for care during childbirth,10562009,SNOMED
+4057979,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",199008003,SNOMED
+4322735,Hypertension associated with transplantation,427889009,SNOMED
+36715087,Brachydactyly and arterial hypertension syndrome,720568003,SNOMED
+443771,Renal hypertension,28119000,SNOMED
+44809548,Hypertension resistant to drug therapy,845891000000103,SNOMED
+439393,Pre-eclampsia,398254007,SNOMED
+4279525,Hypertension in the obstetric context,367390009,SNOMED
+321074,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",199005000,SNOMED
+43021830,Postoperative hypertension,5501000119106,SNOMED
+37016726,Supine hypertension,712832005,SNOMED
+317895,Renovascular hypertension,123799005,SNOMED
+44784483,Pregnancy induced hypertension with pulmonary edema,698638005,SNOMED
+4178312,Hypertension secondary to kidney transplant,428575007,SNOMED
+4159755,Labile essential hypertension,371125006,SNOMED
+42873163,"Hypertension complicating pregnancy, childbirth and the puerperium, antepartum",541000119105,SNOMED
+45757445,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,140111000119107,SNOMED
+4146816,Pre-existing hypertension complicating AND/OR reason for care during childbirth,34694006,SNOMED
+4071202,Neonatal hypertension,206596003,SNOMED
+141084,Pre-eclampsia or eclampsia with pre-existing hypertension,198997005,SNOMED
+136760,Transient hypertension of pregnancy - not delivered,198967002,SNOMED
+4215640,Benign essential hypertension complicating AND/OR reason for care during childbirth,71874008,SNOMED
+4269358,Benign essential hypertension in obstetric context,63287004,SNOMED
+200157,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered",198951008,SNOMED
+4276511,Labile diastolic hypertension,65518004,SNOMED
+45757787,Postpartum pre-existing essential hypertension,40511000119107,SNOMED
+4110948,Hypertension secondary to endocrine disorder,194788005,SNOMED
+4094374,Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth,26078007,SNOMED
+44811110,Nocturnal hypertension,863191000000102,SNOMED
+4034095,Impending eclampsia,237282002,SNOMED
+4062906,Transient hypertension of pregnancy with postnatal complication,198968007,SNOMED
+4057976,Severe pre-eclampsia with postnatal complication,198986005,SNOMED
+4316372,HELLP syndrome,95605009,SNOMED
+44784484,Hypertension in the puerperium with pulmonary edema,698640000,SNOMED
+314423,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",198946002,SNOMED
+4209293,Systolic hypertension,56218007,SNOMED
+45768449,Hypertensive crisis,706882009,SNOMED
+317898,Malignant essential hypertension,78975002,SNOMED
+44811932,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,908631000000108,SNOMED
+4304837,Chronic hypertension complicating AND/OR reason for care during childbirth,8218002,SNOMED
+4218088,Malignant hypertension in obstetric context,81626002,SNOMED
+312648,Benign essential hypertension,1201005,SNOMED
+40481896,Hypertensive urgency,443482000,SNOMED
+36713024,Labile systemic arterial hypertension,16229371000119106,SNOMED
+42538946,Hypertension complicating pregnancy,82771000119102,SNOMED
+439077,Severe pre-eclampsia - delivered with postnatal complication,198984008,SNOMED
+4263067,Low-renin essential hypertension,46481004,SNOMED
+198215,"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",198954000,SNOMED
+4062550,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication,199003007,SNOMED
+314103,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",198944004,SNOMED
+4199306,Transient hypertension,52698002,SNOMED
+4289933,Malignant hypertension,70272006,SNOMED
+4083723,Essential hypertension complicating AND/OR reason for care during childbirth,18416000,SNOMED
+4146627,Non-proteinuric hypertension of pregnancy,307632004,SNOMED
+135601,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,198999008,SNOMED
+35622939,Postpartum pre-eclampsia,765182005,SNOMED
+45757446,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,140121000119100,SNOMED
+141639,Transient hypertension of pregnancy - delivered with postnatal complication,198966006,SNOMED
+321080,"Hypertension complicating pregnancy, childbirth and the puerperium",198941007,SNOMED
+4212496,Parenchymal renal hypertension,57684003,SNOMED
+4253928,Secondary diastolic hypertension,74451002,SNOMED
+4179379,Exertional hypertension,429198000,SNOMED
+4028741,Benign hypertension,10725009,SNOMED
+441922,Transient hypertension of pregnancy,237279007,SNOMED
+4028951,Malignant hypertension complicating AND/OR reason for care during puerperium,23786008,SNOMED
+321638,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",198942000,SNOMED
+4167358,Diastolic hypertension,48146000,SNOMED
+4217486,Essential hypertension in obstetric context,72022006,SNOMED
+4048212,Goldblatt hypertension,123800009,SNOMED
+4151903,Pre-existing hypertension complicating AND/OR reason for care during puerperium,31407004,SNOMED
+4242878,Sustained diastolic hypertension,59720008,SNOMED
+4219323,Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium,39727004,SNOMED
+4034031,Benign essential hypertension complicating AND/OR reason for care during pregnancy,23717007,SNOMED
+4311246,Pre-existing hypertension in obstetric context,86041002,SNOMED
+438490,Severe pre-eclampsia - delivered,198983002,SNOMED
+45757137,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth,10757401000119104,SNOMED
+4148205,Benign essential hypertension complicating AND/OR reason for care during puerperium,35303009,SNOMED
+4302591,Essential hypertension complicating AND/OR reason for care during pregnancy,78808002,SNOMED
+4110947,Malignant secondary renovascular hypertension,194783001,SNOMED
+319826,Secondary hypertension,31992008,SNOMED
+4321603,Essential hypertension complicating AND/OR reason for care during puerperium,9901000,SNOMED
+4243055,Endocrine hypertension,59997006,SNOMED
+314958,Benign secondary hypertension,194785008,SNOMED
+42538697,Diastolic hypertension and systolic hypertension,762463000,SNOMED
+314090,Mild pre-eclampsia,41114007,SNOMED
+4062811,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",198947006,SNOMED
+45757119,Eclampsia with pre-existing hypertension in childbirth,10752641000119102,SNOMED
+4305599,Renal arterial hypertension,39018007,SNOMED
+4249016,Benign secondary renovascular hypertension,73410007,SNOMED
+45757444,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,140101000119109,SNOMED
+4283352,Pre-eclampsia added to pre-existing hypertension,67359005,SNOMED
+4167493,Pregnancy-induced hypertension,48194001,SNOMED
+45757356,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy,118781000119108,SNOMED
+762994,Perioperative hypertension,434711000124103,SNOMED
+136743,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,199002002,SNOMED
+134414,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,199000005,SNOMED
+4221991,Rebound hypertension,84094009,SNOMED
+4035655,Toxemia of pregnancy,15394000,SNOMED
+45771067,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,71701000119105,SNOMED
+35624277,Hypertension due to gain-of-function mutation in mineralocorticoid receptor,766937004,SNOMED
+45771064,Hypertension in chronic kidney disease due to type 2 diabetes mellitus,71421000119105,SNOMED
+4291933,Chronic hypertension complicating AND/OR reason for care during pregnancy,37618003,SNOMED
+433536,Severe pre-eclampsia,46764007,SNOMED
+4058987,High-renin essential hypertension,19769006,SNOMED
+132685,Severe pre-eclampsia - not delivered,198985009,SNOMED
+4080325,Chronic hypertension complicating AND/OR reason for care during puerperium,24042004,SNOMED
+316866,Hypertensive disorder,38341003,SNOMED
+318437,Malignant secondary hypertension,89242004,SNOMED
+137940,Transient hypertension of pregnancy - delivered,198965005,SNOMED
+45757788,Postpartum pregnancy-induced hypertension,40521000119100,SNOMED
+201912,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",198952001,SNOMED
+4061667,Hypertension induced by oral contraceptive pill,169465000,SNOMED
+320128,Essential hypertension,59621000,SNOMED
+4162306,Malignant hypertension complicating AND/OR reason for care during pregnancy,29259002,SNOMED
+4057978,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",199007008,SNOMED
+44809027,Severe hypertension,843841000000109,SNOMED
+4180283,Systolic essential hypertension,429457004,SNOMED
+4227607,Chronic hypertension in obstetric context,8762007,SNOMED
+36713024,Labile systemic arterial hypertension,16229371000119100,SNOMED
+4017173,O/E - check high BP,170582005,SNOMED
+4047613,Increased diastolic arterial pressure,23154005,SNOMED
+4062017,O/E - BP reading very high,163028000,SNOMED
+4086587,Elevated blood pressure,24184005,SNOMED
+4060830,O/E - BP reading raised,163027005,SNOMED
+4094082,Increased mean arterial pressure,26014004,SNOMED
+4109301,Increased systolic arterial pressure,18050000,SNOMED
+141693,Elevated blood-pressure reading without diagnosis of hypertension,371622005,SNOMED
+40351634,Raised blood pressure reading,271869003,SNOMED
+40350984,Raised blood pressure,271647008,SNOMED
