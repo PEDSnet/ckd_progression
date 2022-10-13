@@ -1,0 +1,5 @@
+concept_id,concept_code,concept_name,vocabulary_id
+2003626,55.69,Other kidney transplantation,ICD9Proc
+2109586,50360,"Renal allotransplantation, implantation of graft; without recipient nephrectomy",CPT4
+2109587,50365,"Renal allotransplantation, implantation of graft; with recipient nephrectomy",CPT4
+45887600,1008109,"Renal allotransplantation, implantation of graft",CPT4

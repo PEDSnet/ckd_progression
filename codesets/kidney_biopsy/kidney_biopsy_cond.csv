@@ -1,0 +1,5 @@
+concept_id,concept_code,concept_name,vocabulary_id
+36713973,719025001,Kidney biopsy result abnormal,SNOMED
+36714214,719341006,Kidney biopsy result borderline abnormal,SNOMED
+36715187,720706000,Insufficient histological evidence from kidney biopsy for diagnosis,SNOMED
+36716849,723066005,Kidney biopsy result normal,SNOMED

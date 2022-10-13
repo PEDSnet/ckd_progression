@@ -1,0 +1,15 @@
+concept_id,concept_code,concept_name,vocabulary_id
+4012811,165324008,Biopsy result normal,SNOMED
+4013824,165325009,Biopsy result abnormal,SNOMED
+4065006,165132006,Surgical biopsy result abnormal,SNOMED
+4065425,165123009,Nonsurgical biopsy result normal,SNOMED
+4065508,165124003,Nonsurgical biopsy result abnormal,SNOMED
+4065512,165131004,Surgical biopsy result normal,SNOMED
+36713973,719025001,Kidney biopsy result abnormal,SNOMED
+36714214,719341006,Kidney biopsy result borderline abnormal,SNOMED
+36716849,723066005,Kidney biopsy result normal,SNOMED
+37395486,1047981000000104,Kidney biopsy result normal,SNOMED
+37395503,1048261000000104,Kidney biopsy result abnormal,SNOMED
+37395504,1048271000000106,Kidney biopsy result borderline abnormal,SNOMED
+40301137,142734000,Biopsy result normal,SNOMED
+40301138,142735004,Biopsy result abnormal,SNOMED

@@ -1,0 +1,1856 @@
+concept_id,concept_code,concept_name,vocabulary_id
+192276,190829000,Chronic gouty nephropathy,SNOMED
+192279,127013003,Kidney disorder due to diabetes mellitus,SNOMED
+192359,42399005,Renal failure syndrome,SNOMED
+192362,197591002,Nephrotic syndrome with membranoproliferative glomerulonephritis,SNOMED
+192364,197603000,Nephrotic syndrome associated with another disorder,SNOMED
+192679,75150001,Renal disease in pregnancy AND/OR puerperium without hypertension,SNOMED
+192684,198953006,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",SNOMED
+192686,88531004,Hypertrophy of kidney,SNOMED
+192767,18796000,Injury of renal artery,SNOMED
+192958,9918001,Mobile kidney,SNOMED
+192964,129128006,Infectious disorder of kidney,SNOMED
+193016,236439005,Cystic disease of kidney,SNOMED
+193170,267430007,Renal glycosuria,SNOMED
+193253,52845002,Nephritis,SNOMED
+193493,193003,Benign hypertensive renal disease,SNOMED
+193512,195438008,Embolism and thrombosis of the renal vein,SNOMED
+193519,197663003,Impaired renal function disorder,SNOMED
+193620,20341008,Injury of kidney without open wound into abdominal cavity,SNOMED
+193782,46177005,End-stage renal disease,SNOMED
+193955,44323002,Tuberculosis of kidney,SNOMED
+194152,204938007,Renal agenesis and dysgenesis,SNOMED
+194200,74324004,Laceration of kidney without open wound into abdominal cavity,SNOMED
+194385,36184004,Aneurysm of renal artery,SNOMED
+194405,197590001,Nephrotic syndrome with membranous glomerulonephritis,SNOMED
+194685,197764002,Non-obstructive reflux-associated chronic pyelonephritis,SNOMED
+194686,105999006,Acquired renal cystic disease,SNOMED
+194994,45456005,Renal infarction,SNOMED
+195014,43629001,Renal failure following molar AND/OR ectopic pregnancy,SNOMED
+195060,432461000,Congenital anomaly of renal blood vessel,SNOMED
+195072,236443009,Medullary sponge kidney,SNOMED
+195125,5753006,Injury of renal vein,SNOMED
+195223,21764004,Renal carnitine transport defect,SNOMED
+195289,50581000,Goodpasture's syndrome,SNOMED
+195314,52254009,Nephrotic syndrome,SNOMED
+195363,44513007,Congenital anomaly of the kidney,SNOMED
+195400,28545001,Injury of renal vessels,SNOMED
+195480,93985007,Primary malignant neoplasm of renal pelvis,SNOMED
+195498,92165001,Benign neoplasm of kidney,SNOMED
+195556,86234004,Hypertensive heart AND renal disease,SNOMED
+195595,4576001,Legal termination of pregnancy complicated by renal failure,SNOMED
+195597,52777008,Bilateral small kidney,SNOMED
+195600,8996006,Illegal termination of pregnancy complicated by renal failure,SNOMED
+195737,102455002,Hemorrhagic nephroso-nephritis,SNOMED
+195834,45281005,Atherosclerosis of renal artery,SNOMED
+195861,236448000,Small kidney,SNOMED
+196053,94360002,Secondary malignant neoplasm of kidney,SNOMED
+196260,61474001,Injury of kidney with open wound into abdominal cavity,SNOMED
+196455,51292008,Hepatorenal syndrome,SNOMED
+196464,236392004,Rapidly progressive glomerulonephritis,SNOMED
+196653,363518003,Malignant tumor of kidney,SNOMED
+196813,77945009,Simple renal cyst,SNOMED
+196852,210206008,Kidney laceration with open wound into cavity,SNOMED
+197035,197769007,Acute pyelonephritis with medullary necrosis,SNOMED
+197253,111407006,Hemolytic uremic syndrome,SNOMED
+197319,197589005,Nephrotic syndrome with proliferative glomerulonephritis,SNOMED
+197320,14669001,Acute renal failure syndrome,SNOMED
+197329,429224003,Acute renal failure due to acute cortical necrosis,SNOMED
+197656,204957003,Medullary cystic disease of the kidney,SNOMED
+197711,56906005,Hematoma of kidney without rupture of capsule AND with open wound into abdominal cavity,SNOMED
+197930,198949009,"Renal hypertension complicating pregnancy, childbirth and the puerperium",SNOMED
+198124,90708001,Kidney disease,SNOMED
+198185,90688005,Chronic renal failure,SNOMED
+198192,197772000,Renal and perinephric abscess,SNOMED
+198215,198954000,"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",SNOMED
+198402,94889006,Neoplasm of uncertain behavior of kidney,SNOMED
+198985,93849006,Primary malignant neoplasm of kidney,SNOMED
+199071,266549004,Nephrotic syndrome with minimal change glomerulonephritis,SNOMED
+199195,64323009,Complete disruption of kidney parenchyma without open wound into cavity,SNOMED
+199869,37779008,Pyeloureteritis cystica,SNOMED
+199870,16934004,Renal vascular disorder,SNOMED
+199872,197760006,Chronic pyelonephritis without medullary necrosis,SNOMED
+199991,58797008,Disorder of transplanted kidney,SNOMED
+200132,51677000,Atheroembolism of renal arteries,SNOMED
+200138,2900003,Hyperplasia of renal artery,SNOMED
+200157,198951008,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered",SNOMED
+200253,210207004,Complete disruption of kidney parenchyma with open wound into cavity,SNOMED
+200671,92319008,Benign neoplasm of renal pelvis,SNOMED
+200687,421893009,Renal disorder associated with type 1 diabetes mellitus,SNOMED
+201111,204949001,Renal dysplasia,SNOMED
+201313,38481006,Hypertensive renal disease,SNOMED
+201620,95570007,Kidney stone,SNOMED
+201624,197783009,Pyelitis associated with another disorder,SNOMED
+201675,28770003,"Polycystic kidney disease, infantile type",SNOMED
+201690,7093002,Renal colic,SNOMED
+201908,197761005,Chronic pyelonephritis with medullary necrosis,SNOMED
+201912,198952001,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",SNOMED
+252365,77182004,Membranous glomerulonephritis,SNOMED
+259070,197579006,Acute proliferative glomerulonephritis,SNOMED
+261071,197661001,Glomerulosclerosis,SNOMED
+312358,20917003,Chronic glomerulonephritis,SNOMED
+313223,195353004,Granulomatosis with polyangiitis,SNOMED
+432961,298015003,Acute renal papillary necrosis with renal failure,SNOMED
+433257,80321008,Mesangiocapillary glomerulonephritis,SNOMED
+433811,43064006,Hydronephrosis,SNOMED
+435003,197580009,Acute nephritis with lesions of necrotizing glomerulitis,SNOMED
+435308,19351000,Acute glomerulonephritis,SNOMED
+435320,197582001,Acute glomerulonephritis associated with another disorder,SNOMED
+438476,111395007,Nephrogenic diabetes insipidus,SNOMED
+439694,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,SNOMED
+439695,194780003,Hypertensive heart and renal disease with renal failure,SNOMED
+439696,194779001,Hypertensive heart and renal disease with (congestive) heart failure,SNOMED
+441961,373584008,Congenital pelviureteric junction obstruction,SNOMED
+442074,197626007,Focal membranoproliferative glomerulonephritis,SNOMED
+442075,197616000,Chronic glomerulonephritis associated with another disorder,SNOMED
+442102,9298006,Hematoma of kidney without rupture of capsule AND without open wound into abdominal cavity,SNOMED
+442345,59530001,Syphilis of kidney,SNOMED
+442533,210205007,"Kidney hematoma without rupture of capsule, with open wound into cavity",SNOMED
+442603,66610008,Malignant hypertensive heart AND renal disease,SNOMED
+442626,66052004,Benign hypertensive heart AND renal disease,SNOMED
+442766,65443008,Malignant hypertensive renal disease,SNOMED
+443597,433144002,Chronic kidney disease stage 3,SNOMED
+443601,431856006,Chronic kidney disease stage 2,SNOMED
+443611,433146000,Chronic kidney disease stage 5,SNOMED
+443612,431857002,Chronic kidney disease stage 4,SNOMED
+443614,431855005,Chronic kidney disease stage 1,SNOMED
+443731,420279001,Renal disorder due to type 2 diabetes mellitus,SNOMED
+443919,49220004,Hypertensive renal failure,SNOMED
+443961,49708008,Anemia of chronic renal failure,SNOMED
+444044,35455006,Acute tubular necrosis,SNOMED
+444408,9264002,Laceration of kidney with open wound into abdominal cavity,SNOMED
+444409,90241004,Papillary necrosis,SNOMED
+759938,108101000119101,Malignant melanoma metastatic to kidney,SNOMED
+759939,108131000119108,Small cell carcinoma metastatic to kidney,SNOMED
+759940,1081571000119102,Clear cell carcinoma of left kidney,SNOMED
+759941,1081581000119104,Clear cell carcinoma of right kidney,SNOMED
+759974,108201000119105,Secondary undifferentiated large cell malignant neoplasm of kidney,SNOMED
+759982,108211000119108,Secondary adenocarcinoma of kidney,SNOMED
+760135,1087041000119107,Gonorrhea of kidney and ureter,SNOMED
+760850,120261000119101,Benign hypertensive heart disease and chronic renal disease stage 5,SNOMED
+760978,126551000119103,Nephropathy due to secondary diabetes mellitus,SNOMED
+760997,130181000119100,Benign neuroendocrine tumor of kidney,SNOMED
+761083,14350001000004108,Acute injury of kidney,SNOMED
+761184,15636991000119103,Renal cell carcinoma of bilateral kidneys,SNOMED
+761428,15710241000119103,Stenosis of left renal artery,SNOMED
+761455,15711921000119107,Thrombosis of bilateral renal veins,SNOMED
+761456,15711961000119102,Thrombosis of left renal vein,SNOMED
+761457,15712001000119106,Thrombosis of right renal vein,SNOMED
+761740,15966341000119102,Congenital stenosis of right renal artery,SNOMED
+761741,15966381000119107,Congenital stenosis of left renal artery,SNOMED
+761742,15966701000119103,Atheroembolism of right renal artery,SNOMED
+761743,15966741000119101,Atheroembolism of bilateral renal arteries,SNOMED
+761744,15966781000119106,Atheroembolism of left renal artery,SNOMED
+761840,16026071000119107,Congenital arteriovenous malformation of left renal vessel,SNOMED
+761841,16026111000119100,Congenital arteriovenous malformation of right renal vessel,SNOMED
+761904,18300001000004102,Complex renal cyst,SNOMED
+761940,22470001000004107,Ruptured cyst of kidney,SNOMED
+762000,285061000119106,Benign hypertensive heart disease and chronic renal disease stage 2,SNOMED
+762001,285081000119102,Benign hypertensive heart disease and chronic renal disease stage 3,SNOMED
+762033,285911000119109,Malignant hypertensive heart disease and chronic renal disease stage 3,SNOMED
+762034,285921000119102,Malignant hypertensive heart disease and chronic renal disease stage 4,SNOMED
+762464,40371000119105,Acute nephritis due to another disorder,SNOMED
+762617,429691000124100,Open injury of kidney grade I,SNOMED
+762618,429701000124100,Open injury of kidney grade II,SNOMED
+762619,429711000124102,Open injury of kidney grade III,SNOMED
+762620,429721000124105,Open injury of kidney grade IV,SNOMED
+762756,431431000124100,Arteriosclerosis of renal artery,SNOMED
+762760,431481000124104,Parapelvic renal cyst,SNOMED
+762973,434431000124103,Hypertensive end stage renal disease,SNOMED
+764011,449631000124102,Benign hypertensive heart disease and chronic renal disease,SNOMED
+765079,15710201000119100,Stenosis of right renal artery,SNOMED
+765535,285041000119107,Benign hypertensive heart disease and chronic renal disease stage 1,SNOMED
+765536,285101000119109,Benign hypertensive heart disease and chronic renal disease stage 4,SNOMED
+765743,429731000124108,Open injury of kidney grade V,SNOMED
+4002526,11013005,"SLE glomerulonephritis syndrome, WHO class VI",SNOMED
+4003486,204941003,Congenital renal atrophy,SNOMED
+4003487,204942005,Renal agenesis,SNOMED
+4003489,204950001,Bilateral renal dysplasia,SNOMED
+4003495,204985001,Hyperplasia of kidney,SNOMED
+4004449,204958008,Nephronophthisis,SNOMED
+4004455,204984002,Congenital fusion of kidneys,SNOMED
+4006319,111404004,Perinephritis,SNOMED
+4007943,110996009,Armanni-Ebstein kidney,SNOMED
+4008236,112066009,Absent renal function,SNOMED
+4008560,111406002,Diffuse mesangial sclerosis,SNOMED
+4009172,111403005,Lipomatosis renis,SNOMED
+4010177,102799005,Normal renin secretion,SNOMED
+4010178,102800009,Abnormal renin secretion,SNOMED
+4010188,102829006,Isosthenuria,SNOMED
+4010648,102801008,Increased renin secretion,SNOMED
+4010649,102802001,Decreased renin secretion,SNOMED
+4010657,102830001,Renal angle tenderness,SNOMED
+4012544,102803006,Absence of renin secretion,SNOMED
+4012551,102831002,Renal angle pain,SNOMED
+4018127,11480007,Idiopathic granulomatous interstitial nephropathy,SNOMED
+4024491,226309007,Familial renal glucosuria,SNOMED
+4024519,11659006,Uremic neuropathy,SNOMED
+4024556,106000008,Metabolic renal disease,SNOMED
+4027116,197583006,Acute exudative nephritis,SNOMED
+4027117,197585004,Acute diffuse nephritis,SNOMED
+4027119,197597003,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED
+4027120,197598008,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED
+4027121,197605007,Nephrotic syndrome due to diabetes mellitus,SNOMED
+4027122,197606008,Nephrotic syndrome in malaria,SNOMED
+4027124,197618004,Chronic focal glomerulonephritis,SNOMED
+4027125,197619007,Chronic diffuse glomerulonephritis,SNOMED
+4028050,13335004,Sclerosing glomerulonephritis,SNOMED
+4028655,13530005,Congenital lobulation of kidney,SNOMED
+4029349,12897005,Congenital stricture of ureteropelvic junction,SNOMED
+4029479,13886001,Sickle cell nephropathy,SNOMED
+4029793,13889008,Methyl CCNU nephropathy,SNOMED
+4030507,236377000,Fungal infection of kidney,SNOMED
+4030508,236378005,Candida pyelonephritis,SNOMED
+4030509,236380004,Steroid-sensitive nephrotic syndrome,SNOMED
+4030510,236384008,Congenital nephrotic syndrome with focal glomerulosclerosis,SNOMED
+4030513,236403004,Focal segmental glomerulosclerosis,SNOMED
+4030514,236412002,C1q nephropathy,SNOMED
+4030515,236416004,Membranous glomerulonephritis - stage IV,SNOMED
+4030516,236417008,Membranous glomerulonephritis stage V,SNOMED
+4030517,236422008,Fechtner syndrome,SNOMED
+4030518,236423003,Renal impairment,SNOMED
+4030519,236429004,Acute drug-induced renal failure,SNOMED
+4030520,236435004,End stage renal failure on dialysis,SNOMED
+4030523,236456002,Chronic cadmium nephropathy,SNOMED
+4030525,236461000,Distal renal tubular acidosis,SNOMED
+4030526,236464008,Hyporeninemic hypoaldosteronism,SNOMED
+4030527,236465009,Bartter's syndrome with hypercalciuria and nephrocalcinosis,SNOMED
+4030528,236469003,Fanconi-like syndrome,SNOMED
+4030529,236471003,Low renal threshold for glucose,SNOMED
+4030531,236479001,Magnesium-losing nephropathy,SNOMED
+4030532,236480003,Inherited magnesium-losing nephropathy,SNOMED
+4030661,236483001,Escape of urine from kidney,SNOMED
+4030662,236486009,Extravasation of urine from renal pelvis,SNOMED
+4030663,236488005,Renal artery occlusion,SNOMED
+4030664,236500003,Proteinuric diabetic nephropathy,SNOMED
+4030665,236505008,Cryoglobulinemic glomerulonephritis,SNOMED
+4030666,236511006,Macroglobulinemic nephropathy,SNOMED
+4030667,236513009,Lymphoma of kidney,SNOMED
+4030669,236521003,Penicillamine nephropathy,SNOMED
+4030670,236522005,Chronic cyclosporin A nephrotoxicity,SNOMED
+4030671,236524006,Acute radiation nephritis,SNOMED
+4030672,236525007,Chronic radiation nephritis,SNOMED
+4030673,236526008,Renal disorders in inherited disease,SNOMED
+4030674,236527004,Nail patella-like renal disease,SNOMED
+4030675,236528009,Diffuse mesangial sclerosis with ocular abnormalities,SNOMED
+4030677,236532003,Renal tubular acidosis with progressive nerve deafness,SNOMED
+4031324,14178006,Double renal pelvis,SNOMED
+4031981,1426004,Necrotizing glomerulonephritis,SNOMED
+4031999,14343001,Acute pyelitis with renal medullary necrosis,SNOMED
+4032294,236569000,Primary non-function of renal transplant,SNOMED
+4032295,236571000,Hyperacute rejection of renal transplant,SNOMED
+4032296,236576005,Acute rejection of renal transplant - grade II,SNOMED
+4032297,236579003,Chronic rejection of renal transplant - grade 1,SNOMED
+4032298,236582008,Acute-on-chronic rejection of renal transplant,SNOMED
+4032422,236586006,De novo glomerulonephritis,SNOMED
+4032423,236587002,Transplant glomerulopathy,SNOMED
+4032425,236593005,Acquired hydronephrosis,SNOMED
+4032451,236708007,Calyceal renal calculus,SNOMED
+4032790,1474004,Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth,SNOMED
+4032952,14973001,Renal sclerosis with hypertension,SNOMED
+4033463,109477002,Enamel-renal syndrome,SNOMED
+4034712,15123008,Familial amyloid nephropathy with urticaria AND deafness,SNOMED
+4034818,23754003,Calculous pyelonephritis,SNOMED
+4035003,15347008,Double kidney AND/OR pelvis,SNOMED
+4037874,16297002,Congenital hydronephrosis,SNOMED
+4038785,130948000,Renal alteration,SNOMED
+4040640,16507009,Ectopic kidney,SNOMED
+4042397,16751003,Acute tubulointerstitial nephritis associated with systemic infection,SNOMED
+4042934,16652001,Fabry's disease,SNOMED
+4043348,118951003,Drug-induced nephrogenic diabetes insipidus,SNOMED
+4043785,168044006,O/E: uric acid renal calculus,SNOMED
+4045970,230970001,Isolated non-nephrotic proteinuria,SNOMED
+4046813,22966008,Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy,SNOMED
+4048059,123612005,Healed pyelonephritis,SNOMED
+4048178,232369001,Wegener's granulomatosis of nose,SNOMED
+4048200,123753008,Nephrotoxic serum nephritis,SNOMED
+4048502,232460001,Wegener's granulomatosis of larynx,SNOMED
+4048675,123752003,Immune-complex glomerulonephritis,SNOMED
+4049283,123609007,Subacute glomerulonephritis,SNOMED
+4049284,123610002,Healed glomerulonephritis,SNOMED
+4049318,15842009,Thrombosis of renal vein,SNOMED
+4050542,210811000,Renal blood vessel injury,SNOMED
+4050626,124147007,Deficiency of xanthine oxidase,SNOMED
+4050630,1592005,Failed attempted termination of pregnancy with uremia,SNOMED
+4054908,210197003,Closed injury of kidney,SNOMED
+4054909,210203000,Open injury of kidney,SNOMED
+4054914,197664009,Phosphate-losing tubular disorders,SNOMED
+4054915,197688006,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED
+4054992,197689003,Rapidly progressive nephritic syndrome,SNOMED
+4054993,197708002,"Chronic nephritic syndrome, minor glomerular abnormality",SNOMED
+4055899,197714009,"Chronic nephritic syndrome, dense deposit disease",SNOMED
+4055971,16756008,Albuminuria in pregnancy without hypertension,SNOMED
+4056017,197739000,Glomerular disorders in blood diseases and disorders involving the immune mechanism,SNOMED
+4056018,197745008,Renal tubulo-interstitial disorders in systemic connective tissue disorders,SNOMED
+4056021,197762003,Chronic pyelitis,SNOMED
+4056023,197770008,Acute pyonephrosis,SNOMED
+4056026,197782004,Pyelonephritis associated with another disorder,SNOMED
+4056346,197593004,"Nephrotic syndrome, minor glomerular abnormality",SNOMED
+4056347,197599000,"Nephrotic syndrome, dense deposit disease",SNOMED
+4056348,197607004,Nephrotic syndrome in polyarteritis nodosa,SNOMED
+4056462,197613008,Chronic mesangial proliferative glomerulonephritis,SNOMED
+4056463,197617009,Chronic exudative glomerulonephritis,SNOMED
+4056465,197627003,Recurrent benign hematuria syndrome,SNOMED
+4056468,197632002,Berger's IgA or IgG nephropathy,SNOMED
+4056470,197671004,Renal function impairment with growth failure,SNOMED
+4056472,197683002,"Acute nephritic syndrome, diffuse membranous glomerulonephritis",SNOMED
+4056473,197685009,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED
+4056474,197690007,"Rapidly progressive nephritic syndrome, minor glomerular abnormality",SNOMED
+4056475,197695002,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED
+4056478,197707007,Chronic nephritic syndrome,SNOMED
+4056479,197709005,"Chronic nephritic syndrome, focal and segmental glomerular lesions",SNOMED
+4056480,197715005,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED
+4056592,197743001,Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism,SNOMED
+4056595,197753000,Nephropathy induced by heavy metals,SNOMED
+4056597,197763008,Chronic pyonephrosis,SNOMED
+4056601,197802007,Peripelvic (lymphatic) cyst,SNOMED
+4056605,197813005,Intrarenal hematoma,SNOMED
+4057138,168041003,O/E: renal calculus,SNOMED
+4057139,168042005,O/E: oxalate renal calculus,SNOMED
+4057140,168045007,O/E: cystine renal calculus,SNOMED
+4057978,199007008,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",SNOMED
+4058111,199135009,Glycosuria during pregnancy - delivered with postnatal complication,SNOMED
+4058112,199136005,Glycosuria during pregnancy - not delivered,SNOMED
+4058279,16147005,Arteriolar nephritis,SNOMED
+4058837,197584000,Acute focal nephritis,SNOMED
+4058840,197594005,"Nephrotic syndrome, focal and segmental glomerular lesions",SNOMED
+4058841,197595006,"Nephrotic syndrome, diffuse membranous glomerulonephritis",SNOMED
+4058842,197596007,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED
+4058843,197600002,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",SNOMED
+4058844,197601003,Finnish congenital nephrotic syndrome,SNOMED
+4058967,197604006,Nephrotic syndrome in amyloidosis,SNOMED
+4058977,197659005,Atrophy of kidney,SNOMED
+4058978,197660000,Renal fibrosis,SNOMED
+4058985,197682007,"Acute nephritic syndrome, focal and segmental glomerular lesions",SNOMED
+4058986,197687001,"Acute nephritic syndrome, dense deposit disease",SNOMED
+4058988,197691006,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions",SNOMED
+4058989,197692004,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis",SNOMED
+4058990,197694003,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED
+4058991,197696001,"Rapidly progressive nephritic syndrome, dense deposit disease",SNOMED
+4059128,197742006,Renal tubulo-interstitial disorders in neoplastic diseases,SNOMED
+4059129,197747000,Renal tubulo-interstitial disorders in transplant rejection,SNOMED
+4059131,197757004,Late syphilis of kidney,SNOMED
+4059133,197794008,Staghorn calculus,SNOMED
+4059136,197817006,Adhesions of kidney,SNOMED
+4059137,197820003,Pyelectasia,SNOMED
+4059447,197629000,Anaphylactoid glomerulonephritis,SNOMED
+4059452,197679002,Glomerular disease,SNOMED
+4059454,197681000,"Acute nephritic syndrome, minor glomerular abnormality",SNOMED
+4059455,197684008,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED
+4059456,197686005,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED
+4059457,197693009,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis",SNOMED
+4059458,197697005,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis",SNOMED
+4059463,197712008,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis",SNOMED
+4059584,197713003,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis",SNOMED
+4059590,197738008,Glomerular disorders in neoplastic diseases,SNOMED
+4059593,197744007,Renal tubulo-interstitial disorders in metabolic diseases,SNOMED
+4059601,197801000,Single acquired kidney cyst,SNOMED
+4059604,197812000,Renal artery hemorrhage,SNOMED
+4060295,199110003,Infections of kidney in pregnancy,SNOMED
+4061373,163356003,O/E - left kidney palpable,SNOMED
+4061781,163358002,O/E - renal angle tenderness,SNOMED
+4062493,17121006,Mumps nephritis,SNOMED
+4062574,199132007,Pregnancy-related glycosuria,SNOMED
+4062670,199137001,Glycosuria during pregnancy with postnatal complication,SNOMED
+4063028,199134008,Glycosuria during pregnancy - delivered,SNOMED
+4063322,163357007,O/E - right kidney palpable,SNOMED
+4066005,200118004,Post-delivery acute renal failure with postnatal problem,SNOMED
+4066405,17380002,Failed attempted termination of pregnancy with acute renal failure,SNOMED
+4070448,1776003,Renal tubular acidosis,SNOMED
+4070939,20483002,Legal termination of pregnancy with renal tubular necrosis,SNOMED
+4071582,21952001,"Cystinuria, type 2",SNOMED
+4074393,17901006,Primary hyperoxaluria,SNOMED
+4078911,19167000,Inequality in size of kidneys,SNOMED
+4079853,276584001,Neonatal nephrocalcinosis,SNOMED
+4079862,276627004,Congenital uremia,SNOMED
+4081055,276866009,Benign tumor of pelviureteric junction,SNOMED
+4085194,24790002,Proximal renal tubular acidosis,SNOMED
+4086459,18417009,Oligomeganephronic hypoplasia of kidney,SNOMED
+4089498,187144000,Hydatid cyst of kidney,SNOMED
+4089973,186796004,Plasmodium malariae malaria with nephropathy,SNOMED
+4090113,18719006,Obligatory water reabsorption,SNOMED
+4091056,249578005,Kidney finding,SNOMED
+4091485,188250002,Malignant tumor of kidney parenchyma,SNOMED
+4092879,249582007,Absent kidney,SNOMED
+4093338,249579002,Kidney palpable,SNOMED
+4093431,25821008,Focal glomerular sclerosis,SNOMED
+4095115,26235008,Renal tubular necrosis following molar AND/OR ectopic pregnancy,SNOMED
+4095279,26121002,Balkan nephropathy,SNOMED
+4095757,188252005,Malignant tumor of renal calyx,SNOMED
+4095758,188253000,Malignant tumor of pelviureteric junction,SNOMED
+4096455,26367008,Radiographic contrast agent nephropathy,SNOMED
+4096487,262612001,Foreign body in kidney,SNOMED
+4096867,249580004,Lower pole of kidney palpable,SNOMED
+4096868,249581000,Kidney not palpable,SNOMED
+4098854,27174002,Pyelitis,SNOMED
+4100954,27810000,Acute viral tubulointerstitial nephritis,SNOMED
+4101355,300441003,Finding of appearance of kidney,SNOMED
+4102631,28637003,Acute interstitial nephritis,SNOMED
+4103224,28689008,Interstitial nephritis,SNOMED
+4103701,290006,Melnick-Fraser syndrome,SNOMED
+4103926,25646005,Isolated cystinuria,SNOMED
+4104152,300444006,Large kidney,SNOMED
+4104153,300445007,Finding of sensation of kidney,SNOMED
+4104770,282364005,IgA nephropathy associated with liver disease,SNOMED
+4107071,29908007,Oliguria following molar AND/OR ectopic pregnancy,SNOMED
+4107198,282348002,Acquired renal arteriovenous fistula,SNOMED
+4107302,25765006,Neonatal iminoglycinuria,SNOMED
+4108906,253865003,"Crossed ectopia of kidney, without fusion",SNOMED
+4109022,253880009,Autosomal dominant polycystic kidney disease in childhood,SNOMED
+4109023,253886003,Congenital obstructive defect of renal pelvis,SNOMED
+4109635,253866002,Crossed ectopia of kidney with fusion anomaly,SNOMED
+4109637,253878003,Adult type polycystic kidney disease type 1,SNOMED
+4109638,253881008,Cortical cystic disease,SNOMED
+4109639,253882001,Nephronophthisis - medullary cystic disease,SNOMED
+4109803,253864004,"Familial hypoplastic, glomerulocystic kidney",SNOMED
+4109804,253867006,Thoracic kidney,SNOMED
+4109805,253869009,Cake kidney,SNOMED
+4109806,253873007,Duplex kidney with reflux in one ureter,SNOMED
+4109807,253874001,Duplex kidney with reflux in both ureters,SNOMED
+4109809,253879006,Adult type polycystic kidney disease type 2,SNOMED
+4109810,253884000,Medullary sponge kidney with nephrocalcinosis,SNOMED
+4109811,253885004,Medullary sponge kidney without nephrocalcinosis,SNOMED
+4110134,285639008,Metastasis to kidney of unknown primary,SNOMED
+4110879,254914004,Tumor of kidney parenchyma,SNOMED
+4110880,254915003,Clear cell carcinoma of kidney,SNOMED
+4110881,254917006,Papillary cystadenocarcinoma of kidney,SNOMED
+4110882,254922006,Oncocytoma of kidney,SNOMED
+4111320,254092004,Saldino-Mainzer dysplasia,SNOMED
+4111399,194909006,Acute pericarditis secondary to uremia,SNOMED
+4112872,254918001,Sarcoma of kidney,SNOMED
+4112879,254916002,Cystadenocarcinoma of kidney,SNOMED
+4112880,254919009,Cortical adenoma of kidney,SNOMED
+4112881,254920003,Cystadenoma of kidney,SNOMED
+4112956,254924007,Tumor of renal calyx,SNOMED
+4113445,253860008,Pyelon triplex,SNOMED
+4113446,253862000,Trifid kidney,SNOMED
+4113448,253872002,Bifid kidney,SNOMED
+4113449,253875000,Congenital calyceal diverticulum,SNOMED
+4113450,253876004,Fibrocystic renal degeneration,SNOMED
+4113451,253883006,Multiple renal cysts,SNOMED
+4113453,253897003,"Congenital vesicoureterorenal reflux, bilateral",SNOMED
+4113694,300442005,Finding of size of kidney,SNOMED
+4113696,300448009,Finding of measures of kidney,SNOMED
+4114082,254923001,Hemangiopericytoma of kidney,SNOMED
+4114083,254925008,Benign tumor of renal calyx,SNOMED
+4114186,254927000,Benign papilloma of renal pelvis,SNOMED
+4114187,254928005,Tumor of pelviureteric junction,SNOMED
+4115713,300440002,Kidney present,SNOMED
+4115715,300446008,Kidney tender,SNOMED
+4116091,254921004,Angiomyolipoma of kidney,SNOMED
+4118795,302233006,Renal artery stenosis,SNOMED
+4119093,22846003,Hepatorenal syndrome following delivery,SNOMED
+4119141,302910002,Atherosclerotic renal artery stenosis,SNOMED
+4120310,302849000,Nephroblastoma,SNOMED
+4120326,302922004,Compensatory hypertrophy of single kidney,SNOMED
+4121264,234485006,Epstein syndrome,SNOMED
+4122119,235000001,Wegener's granulomatosis of gingivae,SNOMED
+4122924,234348004,Anemia of renal disease,SNOMED
+4125952,236374007,Chronic infective interstitial nephritis,SNOMED
+4125953,236375008,Emphysematous pyelitis,SNOMED
+4125954,236382007,Steroid-dependent nephrotic syndrome,SNOMED
+4125955,236385009,Drash syndrome,SNOMED
+4125957,236394003,Idiopathic endocapillary glomerulonephritis,SNOMED
+4125958,236395002,Post-infectious glomerulonephritis,SNOMED
+4125960,236399008,Steroid-sensitive minimal change glomerulonephritis,SNOMED
+4125961,236400001,Steroid-resistant minimal change glomerulonephritis,SNOMED
+4125962,236401002,Steroid-dependent minimal change glomerulonephritis,SNOMED
+4125964,236410005,Mesangiocapillary glomerulonephritis type IV,SNOMED
+4125966,236413007,Membranous glomerulonephritis - stage I,SNOMED
+4125967,236419006,Progressive hereditary glomerulonephritis without deafness,SNOMED
+4125968,236426006,Postoperative acute tubular necrosis,SNOMED
+4125969,236427002,Post-traumatic acute tubular necrosis,SNOMED
+4125970,236436003,End stage renal failure with renal transplant,SNOMED
+4125971,236451007,Renal ocular syndrome,SNOMED
+4125972,236455003,Saturnine nephropathy,SNOMED
+4125973,236458001,Granulomatous interstitial nephritis,SNOMED
+4126105,236466005,Congenital Fanconi syndrome,SNOMED
+4126106,236470002,Specific renal tubule transport defect,SNOMED
+4126107,236472005,High renal threshold for glucose,SNOMED
+4126108,236474006,Isolated hypercystinuria,SNOMED
+4126109,236475007,Dibasic aminoaciduria,SNOMED
+4126110,236491005,Renal infarction - venous,SNOMED
+4126111,236492003,Congenital renal artery aneurysm,SNOMED
+4126112,236496000,Acute urate nephropathy,SNOMED
+4126115,236506009,Goodpasture's disease,SNOMED
+4126116,236508005,Malignancy-associated glomerulonephritis,SNOMED
+4126118,236512004,Leukemic infiltrate of kidney,SNOMED
+4126119,236514003,Toxic nephropathy,SNOMED
+4126120,236515002,Acute toxic nephropathy,SNOMED
+4126121,236520002,Gold nephropathy,SNOMED
+4126122,236530006,Pulmonic stenosis and congenital nephrosis,SNOMED
+4126131,236573002,Very mild acute rejection of renal transplant,SNOMED
+4126132,236584009,Perfusion injury of renal transplant,SNOMED
+4126133,236589004,Transplant glomerulopathy - late form,SNOMED
+4126137,236614007,Perirenal and periureteric post-transplant lymphocele,SNOMED
+4126296,236376009,Infected renal cyst,SNOMED
+4126297,236379002,Chronic obstructive pyelonephritis,SNOMED
+4126300,236393009,Endocapillary glomerulonephritis,SNOMED
+4126301,236398000,Idiopathic crescentic glomerulonephritis,SNOMED
+4126302,236405006,Hyperfiltration focal segmental glomerulosclerosis,SNOMED
+4126303,236414001,Membranous glomerulonephritis - stage II,SNOMED
+4126304,236415000,Membranous glomerulonephritis - stage III,SNOMED
+4126305,236424009,Acute renal impairment,SNOMED
+4126424,236428007,Nephrotoxic acute renal failure,SNOMED
+4126425,236430009,Pigment nephropathy,SNOMED
+4126426,236431008,Traumatic anuria - crush syndrome,SNOMED
+4126427,236432001,Pulmonary renal syndrome,SNOMED
+4126428,236442004,Acquired renal cyst without neoplastic change,SNOMED
+4126429,236444003,Microscopic nephrocalcinosis,SNOMED
+4126430,236446001,Cortical nephrocalcinosis,SNOMED
+4126431,236454004,Chronic lead nephropathy,SNOMED
+4126432,236463002,Hyperkalemic renal tubular acidosis,SNOMED
+4126433,236467001,Acquired Fanconi syndrome,SNOMED
+4126435,236478009,Familial renal hypouricemia,SNOMED
+4126436,236482006,Inherited renal tubule insufficiency with cholestatic jaundice,SNOMED
+4126439,236503001,Acute scleroderma renal crisis,SNOMED
+4126441,236518000,Acute mercury nephropathy,SNOMED
+4126442,236523000,Chronic toxic interstitial nephritis,SNOMED
+4127550,236575009,Acute rejection of renal transplant - grade I,SNOMED
+4127551,236577001,Acute rejection of renal transplant - grade III,SNOMED
+4127552,236580000,Chronic rejection of renal transplant - grade II,SNOMED
+4127553,236581001,Chronic rejection of renal transplant - grade III,SNOMED
+4127554,236583003,Failed renal transplant,SNOMED
+4127716,236709004,Calculus in calyceal diverticulum,SNOMED
+4127717,236710009,Calculus in renal pelvis,SNOMED
+4127718,236711008,Calculus in pelviureteric junction,SNOMED
+4127719,236713006,X-linked recessive nephrolithiasis with renal failure,SNOMED
+4127997,289923007,Acquired renal artery stenosis,SNOMED
+4128029,23697004,Crush syndrome,SNOMED
+4128055,236381000,Steroid-resistant nephrotic syndrome,SNOMED
+4128056,236383002,Familial mesangial sclerosis,SNOMED
+4128057,236397005,Post-infectious glomerulonephritis - Garland variety,SNOMED
+4128058,236402009,Ischemic glomerulopathy,SNOMED
+4128059,236404005,Classical focal segmental glomerulosclerosis,SNOMED
+4128060,236406007,Acquired immune deficiency syndrome-related nephropathy,SNOMED
+4128061,236407003,IgA nephropathy,SNOMED
+4128062,236409000,Mesangiocapillary glomerulonephritis type III,SNOMED
+4128063,236411009,IgM nephropathy,SNOMED
+4128064,236418003,Thin basement membrane disease,SNOMED
+4128067,236433006,Acute-on-chronic renal failure,SNOMED
+4128200,236434000,End stage renal failure untreated by renal replacement therapy,SNOMED
+4128201,236437007,Structural and functional abnormalities of the kidney,SNOMED
+4128202,236438002,Calcific papillary necrosis,SNOMED
+4128203,236441006,Acquired renal cyst with neoplastic change,SNOMED
+4128204,236445002,Macroscopic nephrocalcinosis,SNOMED
+4128205,236447005,Medullary nephrocalcinosis,SNOMED
+4128206,236452000,Chronic drug-induced tubulointerstitial nephritis,SNOMED
+4128207,236453005,Chronic interstitial nephritis due to heavy metals,SNOMED
+4128208,236457006,Chronic mercury nephropathy,SNOMED
+4128209,236459009,Malakoplakia of kidney,SNOMED
+4128210,236460004,Familial proximal renal tubular acidosis,SNOMED
+4128211,236468006,Adult Fanconi syndrome,SNOMED
+4128212,236477004,Glycinuria,SNOMED
+4128213,236481004,Acquired magnesium-losing nephropathy,SNOMED
+4128214,236484007,Calyceal fistula,SNOMED
+4128215,236485008,Fistula from renal pelvis,SNOMED
+4128216,236487000,Pararenal urinoma,SNOMED
+4128217,236490006,Renal infarction - arterial,SNOMED
+4128218,236493008,Acquired renal artery aneurysm,SNOMED
+4128219,236495001,Urate nephropathy,SNOMED
+4128220,236498004,Renal disorders in systemic disease,SNOMED
+4128221,236499007,Microalbuminuric diabetic nephropathy,SNOMED
+4128222,236502006,Renal involvement in scleroderma,SNOMED
+4128223,236504007,Henoch-Schönlein nephritis,SNOMED
+4128224,236507000,Renal involvement in malignant disease,SNOMED
+4128226,236516001,Acute lead nephropathy,SNOMED
+4128227,236517005,Acute cadmium nephropathy,SNOMED
+4128228,236519008,Chronic drug-induced renal disease,SNOMED
+4128229,236531005,Renal dysplasia and retinal aplasia,SNOMED
+4128230,236534002,Familial lobular glomerulopathy,SNOMED
+4128231,236535001,Glomerulopathy with fibronectin deposits 1,SNOMED
+4128369,236570004,Renal transplant rejection,SNOMED
+4128370,236572007,Accelerated rejection of renal transplant,SNOMED
+4128371,236574008,Acute rejection of renal transplant,SNOMED
+4128372,236578006,Chronic rejection of renal transplant,SNOMED
+4128373,236588007,Transplant glomerulopathy - early form,SNOMED
+4128374,236590008,Cytomegalovirus-induced glomerulonephritis,SNOMED
+4128376,236592000,Stenosis of calyceal neck,SNOMED
+4129019,237230004,Uremia in pregnancy without hypertension,SNOMED
+4129892,126874009,Neoplasm of perirenal tissue,SNOMED
+4129894,126881002,Neoplasm of renal pelvis,SNOMED
+4131748,126880001,Neoplasm of kidney,SNOMED
+4133193,278531007,Congenital hydrocalicosis,SNOMED
+4134922,262893009,Laceration of kidney,SNOMED
+4134923,262894003,Rupture of renal pelvis,SNOMED
+4135463,31881008,Cardiovascular renal disease,SNOMED
+4135626,262891006,Hematoma of kidney,SNOMED
+4135705,32070009,Increased renal clearance,SNOMED
+4136983,31814006,Facultative water reabsorption,SNOMED
+4137220,425455002,Diabetic glomerulonephritis,SNOMED
+4137336,262900003,Disruption of pelviureteric junction,SNOMED
+4137433,32278006,Myeloma kidney,SNOMED
+4137752,32093003,Acute drug-induced tubulointerstitial nephritis,SNOMED
+4138908,426136000,Delayed renal graft function,SNOMED
+4139414,307309005,Transient acute renal failure,SNOMED
+4139534,425414000,Bilateral renal artery stenosis,SNOMED
+4139587,32659003,Congenital hypoplasia of kidney,SNOMED
+4139915,32801008,Acute pyelitis,SNOMED
+4140207,32916005,Nephrosclerosis,SNOMED
+4141029,425879009,AA amyloid nephropathy,SNOMED
+4142037,34165000,Gestational proteinuria,SNOMED
+4142194,3321001,Renal abscess,SNOMED
+4142292,306857000,Thrombosis of renal artery bypass graft,SNOMED
+4142912,33763006,Hypercalcemic nephropathy,SNOMED
+4143003,427555000,Glomerulonephritis co-occurrent and due to Wegener's granulomatosis,SNOMED
+4143190,33561005,Illegal termination of pregnancy with acute renal failure,SNOMED
+4143588,306852006,Occlusion of renal artery bypass graft,SNOMED
+4144000,427649000,Calcium renal calculus,SNOMED
+4144196,307618001,Juxtaglomerular tumor,SNOMED
+4145221,426598005,Amyloid light-chain nephropathy,SNOMED
+4145240,307755009,Renal tubulo-interstitial disorder in systemic lupus erythematosus,SNOMED
+4146019,307604008,Mesoblastic nephroma,SNOMED
+4146886,30124006,Rupture of kidney,SNOMED
+4146996,35546006,Mesangial proliferative glomerulonephritis,SNOMED
+4147222,30275001,Accessory kidney,SNOMED
+4147577,310387003,Diabetic intracapillary glomerulosclerosis,SNOMED
+4147675,30295007,"Renal glucosuria, type B",SNOMED
+4148260,266556005,Calculus of kidney and ureter,SNOMED
+4148727,269914004,O/E: phosphate -staghorn-stone,SNOMED
+4148908,270910001,"Medullary cystic disease, adult type",SNOMED
+4149398,268854008,Congenital renal failure,SNOMED
+4149888,31005002,Hepatorenal syndrome due to a procedure,SNOMED
+4150547,310647000,Anemia secondary to renal failure,SNOMED
+4150643,271387005,Congenital enlarged kidney,SNOMED
+4151112,269257004,Acute renal failure due to crush syndrome,SNOMED
+4151214,28196006,Uremia following molar AND/OR ectopic pregnancy,SNOMED
+4151256,269489006,Benign tumor of renal parenchyma,SNOMED
+4151635,310670008,Hydronephrosis with ureteropelvic junction obstruction,SNOMED
+4151711,270517006,Triple kidney with triple pelvis,SNOMED
+4151848,282664001,Renal artery stenosis of unknown cause,SNOMED
+4151867,268232000,Bilateral renal hypoplasia,SNOMED
+4151868,268234004,Fibrocystic kidney disease,SNOMED
+4151946,311366001,Kimmelstiel-Wilson syndrome,SNOMED
+4152508,272049009,C/O - renal pain,SNOMED
+4152839,270494003,Acute papillary necrosis,SNOMED
+4153222,371011007,Caliectasis,SNOMED
+4153293,271432005,Congenital renal artery stenosis,SNOMED
+4153653,370493008,Renal medullary washout,SNOMED
+4153654,370494002,Protein-losing nephropathy,SNOMED
+4153876,269301005,Renal failure as a complication of care,SNOMED
+4153992,283905005,Avulsion of kidney,SNOMED
+4157002,370368007,Renal candidiasis,SNOMED
+4159136,371020003,Renal hematuria,SNOMED
+4159967,373422007,Diarrhea-negative hemolytic uremic syndrome,SNOMED
+4160047,373599008,Multiple acquired kidney cysts,SNOMED
+4160274,430535006,Acute renal failure with oliguria,SNOMED
+4161286,399094007,Familial hematuria,SNOMED
+4161421,399340005,Hereditary nephritis,SNOMED
+4162450,373637000,Congenital vesicoureterorenal reflux,SNOMED
+4162454,373651000,Idiopathic hydronephrosis,SNOMED
+4163672,45583009,Renal pelvic contraction,SNOMED
+4163736,399190000,Non-progressive hereditary glomerulonephritis,SNOMED
+4163982,45646000,Subacute milk alkali syndrome,SNOMED
+4164956,40951006,"Primary hyperoxaluria, type II",SNOMED
+4165063,45743004,Duodenorenal fistula,SNOMED
+4165211,45812003,Familial methionine malabsorption,SNOMED
+4167250,274279008,Renal pain,SNOMED
+4167925,275407001,Double kidney with double pelvis,SNOMED
+4168679,274613006,Kidneys not palpable,SNOMED
+4168698,274733002,Kidney filling defect,SNOMED
+4168934,48655003,Isolated familial renal hypomagnesemia,SNOMED
+4169439,419230002,Renal bruit,SNOMED
+4169615,419783009,On examination - renal bruit,SNOMED
+4169751,49102001,Hypertensive heart AND renal disease in obstetric context,SNOMED
+4169889,49171007,Hypertensive renal disease complicating AND/OR reason for care during childbirth,SNOMED
+4170452,275408006,Postoperative renal failure,SNOMED
+4170813,274401005,Uric acid renal calculus,SNOMED
+4171105,276583007,Newborn renal dysfunction,SNOMED
+4171974,48638002,Nephrocalcinosis,SNOMED
+4171995,48713002,Amyloid nephropathy,SNOMED
+4172011,48796009,Congenital nephrotic syndrome,SNOMED
+4172368,277010001,Unexplained episode of renal transplant dysfunction,SNOMED
+4172369,277011002,Pre-existing disease in renal transplant,SNOMED
+4173099,48061001,Congenital calculus of kidney,SNOMED
+4173195,276585000,Congenital nephritis,SNOMED
+4173196,276586004,Transient neonatal renal tubular acidosis,SNOMED
+4173817,275510005,Acquired renal arteriovenous aneurysm,SNOMED
+4173873,49008000,Malrotation of kidney,SNOMED
+4174709,42496002,"Cystinuria, type 3",SNOMED
+4174994,48631008,Pyonephrosis,SNOMED
+4176650,361264003,Congenital arteriovenous fistula of kidney,SNOMED
+4176760,428720002,Nephropathy due to heroin,SNOMED
+4176954,363224005,Neonatal renal disorder,SNOMED
+4176957,363233007,Nephrotic syndrome secondary to glomerulonephritis,SNOMED
+4177206,428255004,Tubulointerstitial nephritis,SNOMED
+4178133,52042003,"SLE glomerulonephritis syndrome, WHO class V",SNOMED
+4178627,42927005,Cholemic nephrosis,SNOMED
+4179943,50909009,Antifreeze oxalosis,SNOMED
+4180453,429489008,Acute renal failure due to obstruction,SNOMED
+4180768,363286005,Renal complication of procedure,SNOMED
+4180769,363287001,Renal failure associated with renal vascular disease,SNOMED
+4181114,52342006,Legal termination of pregnancy with acute renal failure,SNOMED
+4181202,363234001,Nephrotic syndrome secondary to systemic disease,SNOMED
+4181214,363288006,Renal tubulo-interstitial disorders in systemic disease,SNOMED
+4181357,363457009,Malignant tumor of renal pelvis,SNOMED
+4182635,366263008,Position of kidney - finding,SNOMED
+4183002,54781007,"Hyperkalemia, diminished renal excretion",SNOMED
+4183446,43258006,Milk alkali syndrome,SNOMED
+4183557,54155004,Illegal termination of pregnancy with uremia,SNOMED
+4184819,41305006,Secondary oxalosis,SNOMED
+4184948,4390004,Lithium nephropathy,SNOMED
+4185024,298127003,Acquired calyceal diverticulum,SNOMED
+4185849,55856005,Congenital hyperplasia of kidney,SNOMED
+4186940,4676006,"SLE glomerulonephritis syndrome, WHO class II",SNOMED
+4187653,45927004,Immunologic mediated T.I.N.,SNOMED
+4187758,4135001,11p partial monosomy syndrome,SNOMED
+4187938,46395002,Multiple renal arteries,SNOMED
+4188214,46785007,Familial juvenile gout,SNOMED
+4188623,47330001,Idiopathic acute interstitial nephritis,SNOMED
+4189519,61598006,Glycogenosis with glucoaminophosphaturia,SNOMED
+4189531,61503006,Acute nephritis,SNOMED
+4190190,373421000,Diarrhea-associated hemolytic uremic syndrome,SNOMED
+4191250,39291006,Embolism of renal vein,SNOMED
+4192381,75712001,Renal coccidiosis,SNOMED
+4194065,79385002,Lowe syndrome,SNOMED
+4195297,4451004,Illegal termination of pregnancy with renal tubular necrosis,SNOMED
+4196638,80119007,Pericarditis secondary to uremia,SNOMED
+4200572,53378008,Salt-wasting syndrome of infancy,SNOMED
+4200639,301814009,Post-renal renal failure,SNOMED
+4201483,314967004,Local recurrence of malignant tumor of kidney,SNOMED
+4203241,433229006,Nephrocutaneous fistula,SNOMED
+4203784,5397007,Congenital anomaly of renal pelvis,SNOMED
+4204187,309088003,Renal mass,SNOMED
+4204372,54879000,Hypokalemic nephropathy,SNOMED
+4205451,55536001,Congenital malposition of kidney,SNOMED
+4205855,53556002,Cis-platinum nephropathy,SNOMED
+4206115,309426007,Diabetic glomerulopathy,SNOMED
+4206527,440018001,Heavy-metal-induced tubulointerstitial nephritis,SNOMED
+4207629,311496007,Extravasation of urine from kidney,SNOMED
+4208249,54967001,Double kidney,SNOMED
+4208258,55006001,Light chain nephropathy,SNOMED
+4208918,439990003,Drug-induced interstitial nephritis,SNOMED
+4210158,55652009,"Idiopathic crescentic glomerulonephritis, type III",SNOMED
+4210317,56108007,Pelvic kidney,SNOMED
+4212496,57684003,Parenchymal renal hypertension,SNOMED
+4215648,71909003,Acute renal failure following molar AND/OR ectopic pregnancy,SNOMED
+4216498,80902009,Neutral 1 amino acid transport defect,SNOMED
+4216685,81363003,Malignant arteriolar nephrosclerosis,SNOMED
+4216968,81475007,Acquired nephrogenic diabetes insipidus,SNOMED
+4217269,39734002,"Renal glucosuria, type O",SNOMED
+4217611,81896006,Dysmorphic sialidosis with renal involvement,SNOMED
+4218259,81986001,Renal secondary osteodystrophia fibrosa,SNOMED
+4218784,73030000,Hypertensive renal disease in obstetric context,SNOMED
+4219152,41729002,Horseshoe kidney,SNOMED
+4219349,81987005,"Familial hypokalemic alkalosis, Gullner type",SNOMED
+4219458,82112005,Idiopathic chronic interstitial nephritis,SNOMED
+4219863,3999002,Acute pyelitis without renal medullary necrosis,SNOMED
+4220051,8199003,Focal embolic nephritis syndrome,SNOMED
+4220238,82525005,Multiple congenital cysts of kidney,SNOMED
+4220484,40068008,Hydroureteronephrosis,SNOMED
+4220631,40095003,Injury of kidney,SNOMED
+4221487,420715001,Persistent microalbuminuria associated with type 2 diabetes mellitus,SNOMED
+4221663,40233000,Nephrotic-nephritic syndrome,SNOMED
+4221718,83850008,Uremic acidosis,SNOMED
+4222306,83923004,Familial interstitial nephritis,SNOMED
+4222553,420514000,Persistent proteinuria associated with type 1 diabetes mellitus,SNOMED
+4222610,83866005,Focal AND segmental proliferative glomerulonephritis,SNOMED
+4222687,421305000,Persistent microalbuminuria associated with type 1 diabetes mellitus,SNOMED
+4223016,41962002,Oligohydramnios sequence,SNOMED
+4223739,421986006,Persistent proteinuria associated with type 2 diabetes mellitus,SNOMED
+4224013,84121007,Iminoglycinuria,SNOMED
+4225406,85020001,Cystinuria,SNOMED
+4225572,8468007,Legal termination of pregnancy with uremia,SNOMED
+4226133,405573009,Acquired obstructive defect of renal pelvis,SNOMED
+4228827,88380005,Acute milk alkali syndrome,SNOMED
+4229557,40488004,Fanconi syndrome,SNOMED
+4232758,89637003,Pyelitis glandularis,SNOMED
+4232873,438783006,Acute postoperative renal failure,SNOMED
+4234129,359563005,Small kidney of unknown cause,SNOMED
+4234761,359694003,"Idiopathic crescentic glomerulonephritis, type II",SNOMED
+4234991,90493000,Arteriolar nephrosclerosis,SNOMED
+4235301,91003006,Salt-losing nephropathy,SNOMED
+4236728,405584002,Traumatic rupture of kidney,SNOMED
+4236844,57965003,Acute benign hemorrhagic glomerulonephritic syndrome,SNOMED
+4237290,57088004,Microcystic renal disease,SNOMED
+4239213,91195006,Acute fungal tubulointerstitial nephritis,SNOMED
+4239804,57557005,Chronic milk alkali syndrome,SNOMED
+4240080,57873008,Hypertensive renal disease complicating AND/OR reason for care during puerperium,SNOMED
+4241966,59479006,"Mesangiocapillary glomerulonephritis, type II",SNOMED
+4241978,59531002,Tryptophan malabsorption syndrome,SNOMED
+4242411,58574008,Acute nephropathy,SNOMED
+4243625,38046004,Diffuse type diabetic glomerulosclerosis,SNOMED
+4243885,92624000,Carcinoma in situ of kidney,SNOMED
+4244338,93425004,Discoloration of kidney,SNOMED
+4244418,59400006,Analgesic nephropathy,SNOMED
+4244642,92697000,Carcinoma in situ of renal pelvis,SNOMED
+4244939,92975004,Congenital absence of renal papilla,SNOMED
+4245223,92921005,Congenital abnormal shape of kidney,SNOMED
+4245854,59758007,Trifid pelvis of kidney,SNOMED
+4246928,93290000,Congenital hypoplasia of renal pelvis,SNOMED
+4249737,73305009,Fibrillary glomerulonephritis,SNOMED
+4250483,73286009,"SLE glomerulonephritis syndrome, WHO class I",SNOMED
+4251796,7448003,Acute pyonephrosis with renal medullary necrosis,SNOMED
+4251937,74594005,Crossed renal ectopia,SNOMED
+4256774,408642003,Transitional cell carcinoma of kidney,SNOMED
+4259282,44934008,Osmotic diuresis,SNOMED
+4260398,44785005,Minimal change disease,SNOMED
+4260536,4495005,Congenital hypertrophy of ureteric valve,SNOMED
+4261202,44730006,Uremia,SNOMED
+4262564,361147005,Congenital hypoplasia of renal papilla,SNOMED
+4263257,361146001,Congenital small renal papilla,SNOMED
+4263367,36171008,Glomerulonephritis,SNOMED
+4263932,36388008,Stricture of pelviureteric junction,SNOMED
+4264306,61852001,Ask-Upmark kidney,SNOMED
+4264681,36225005,Acute renal failure due to procedure,SNOMED
+4264718,60926001,Chronic interstitial nephritis,SNOMED
+4264734,60989005,Thromboembolism of renal arteries,SNOMED
+4264779,47033005,Increased renal function,SNOMED
+4265212,62216007,Familial arthrogryposis-cholestatic hepatorenal syndrome,SNOMED
+4265337,61165007,Hereditary nephrogenic diabetes insipidus,SNOMED
+4267646,36568005,Hemolytic uremic syndrome of childhood,SNOMED
+4267717,62853008,Anti-glomerular basement membrane tubulointerstitial nephritis,SNOMED
+4267801,36402006,"SLE glomerulonephritis syndrome, WHO class IV",SNOMED
+4268756,62240004,Benign arteriolar nephrosclerosis,SNOMED
+4268774,62332007,Infantile nephropathic cystinosis,SNOMED
+4269363,63302006,Chronic pyelonephritis,SNOMED
+4270049,63510008,Nodular type diabetic glomerulosclerosis,SNOMED
+4272470,64168005,"Idiopathic crescentic glomerulonephritis, type I",SNOMED
+4272486,64212008,Diffuse crescentic glomerulonephritis,SNOMED
+4276513,65520001,"Primary hyperoxaluria, type I",SNOMED
+4280219,66451004,"Familial visceral amyloidosis, Ostertag type",SNOMED
+4280382,66709007,Hypertensive renal disease complicating AND/OR reason for care during pregnancy,SNOMED
+4280571,36689008,Acute pyelonephritis,SNOMED
+4281846,67132008,Hypoxic nephrosis,SNOMED
+4284491,3704008,Diffuse endocapillary proliferative glomerulonephritis,SNOMED
+4284564,66993009,Acute infectious tubulointerstitial nephritis,SNOMED
+4285051,36891003,"Hartnup disorder, renal/jejunal type",SNOMED
+4285717,68815009,SLE glomerulonephritis syndrome,SNOMED
+4286024,68544003,Acute post-streptococcal glomerulonephritis,SNOMED
+4287695,68779003,Primary IgA nephropathy,SNOMED
+4288991,69718008,Oxalate nephropathy,SNOMED
+4290159,37183000,"Cystinuria, type 1",SNOMED
+4290339,37061001,Granulomatous sarcoid nephropathy,SNOMED
+4290345,37085009,Shunt nephritis,SNOMED
+4290623,37133005,Tuberculous pyelitis,SNOMED
+4291473,37497004,Enteric hyperoxaluria,SNOMED
+4292728,37766004,Water diuresis,SNOMED
+4294386,76023003,Impairment of urinary concentration,SNOMED
+4294813,75888001,"Mesangiocapillary glomerulonephritis, type I",SNOMED
+4295011,401110002,Type 1 diabetes mellitus with persistent microalbuminuria,SNOMED
+4295276,76569007,Anti-diuresis,SNOMED
+4296288,76224000,Hemoglobinuric nephrosis,SNOMED
+4296764,7703001,Renal tubular defect,SNOMED
+4297164,76521009,"SLE glomerulonephritis syndrome, WHO class III",SNOMED
+4298107,77186001,Failed attempted termination of pregnancy with renal tubular necrosis,SNOMED
+4298413,77624000,"Volume excess, primary renal sodium retention",SNOMED
+4298809,7724006,Nephritic syndrome,SNOMED
+4299498,7725007,Radiation nephritis,SNOMED
+4301121,78311009,Histidine transport defect,SNOMED
+4302298,78209002,"Hemolytic uremic syndrome, adult type",SNOMED
+4302592,78815005,Hereditary tubulointerstitial disorder,SNOMED
+4302748,78544004,Chronic hypertensive uremia,SNOMED
+4303085,419558006,On examination - kidney palpable,SNOMED
+4303512,418839003,Tubulointerstitial nephritis with uveitis syndrome,SNOMED
+4306513,422593004,Acute renal failure due to ACE inhibitor,SNOMED
+4306541,38898003,Xanthogranulomatous pyelonephritis,SNOMED
+4307077,83096004,Decreased renal clearance,SNOMED
+4307400,423322005,Recurrent obstructive pyelonephritis,SNOMED
+4308408,213231008,Hepatorenal syndrome as a complication of care,SNOMED
+4308893,83563007,Renal hemosiderosis,SNOMED
+4309006,213150003,Kidney transplant failure and rejection,SNOMED
+4309839,423919000,Acquired caliectasis,SNOMED
+4310661,85495007,Acute pyonephrosis without renal medullary necrosis,SNOMED
+4310713,424188009,Idiopathic interstitial nephritis,SNOMED
+4311121,85993006,Renal calyceal contraction,SNOMED
+4311129,423533009,Acute renal failure due to ischemia,SNOMED
+4311553,85487008,Renal phosphaturia,SNOMED
+4312212,85901000,Megacalycosis,SNOMED
+4312366,425384007,Sarcoidosis with glomerulonephritis,SNOMED
+4312856,86463003,Solitary multilocular renal cyst,SNOMED
+4313418,86235003,Heavy metal nephropathy,SNOMED
+4313582,86249007,Obstructive nephropathy,SNOMED
+4314202,94698006,Mottling of kidney,SNOMED
+4315670,94514000,Secondary malignant neoplasm of renal pelvis,SNOMED
+4316366,95571006,Hemorrhage of kidney,SNOMED
+4316367,95579008,Thrombosis of renal artery,SNOMED
+4316369,95582003,Kidney crystallization,SNOMED
+4316617,94998008,Neoplasm of uncertain behavior of perirenal tissue,SNOMED
+4316995,95025009,Neoplasm of uncertain behavior of renal pelvis,SNOMED
+4318411,95474000,Arteriovenous malformation of kidney,SNOMED
+4318544,95568003,Renal tubular disorder,SNOMED
+4318547,95581005,Bilateral hydronephrosis,SNOMED
+4318839,95575002,Obstruction of pelviureteric junction,SNOMED
+4318841,95577005,Renal interstitial fibrosis,SNOMED
+4318842,95578000,Renal vasculitis,SNOMED
+4318843,95580006,Renal artery embolism,SNOMED
+4321555,70092007,Contusion of kidney,SNOMED
+4322556,425369003,Chronic progressive renal failure,SNOMED
+4323988,71064009,Acquired polycystic kidney disease,SNOMED
+4323996,71110009,Hydrocalycosis,SNOMED
+4324600,430035004,Fetal pyelectasis,SNOMED
+4326243,75030003,"Renal glucosuria, type A",SNOMED
+4328100,75652008,Familial renal iminoglycinuria,SNOMED
+4328286,431480000,Nephrovisceral fistula,SNOMED
+4329438,22011005,"Hartnup disorder, renal type",SNOMED
+4329572,22352007,Acute bacterial tubulointerstitial nephritis,SNOMED
+4330380,431501001,Pyelocutaneous fistula,SNOMED
+4331085,430031008,Fetal hydronephrosis,SNOMED
+4331449,22702000,Glomerulitis,SNOMED
+4333223,433036004,Diverticulum of renal calyx,SNOMED
+4335380,432294000,Dysplasia of blood vessel of kidney,SNOMED
+4337968,874002,Therapeutic diuresis,SNOMED
+4338947,88102009,Nodular renal blastema,SNOMED
+4341540,236369004,Renal acidemia,SNOMED
+4342511,236421001,Benign familial hematuria,SNOMED
+4343933,239932005,Primary pauci-immune necrotizing and crescentic glomerulonephritis,SNOMED
+4344492,239935007,"Wegener's syndrome, limited form",SNOMED
+4344493,239936008,Wegener's granulomatosis with multisystem involvement,SNOMED
+4347418,240317003,Kidney injury due to birth trauma,SNOMED
+35608128,765780006,Reflux nephropathy of right kidney due to vesicoureteral reflux,SNOMED
+35612355,765095002,Renal medullary carcinoma,SNOMED
+35615020,15648731000119101,Atherosclerosis of right renal artery,SNOMED
+35615021,15648821000119105,Atherosclerosis of left renal artery,SNOMED
+35615057,15966461000119108,Dissection of left renal artery,SNOMED
+35615058,15966501000119108,Dissection of right renal artery,SNOMED
+35622407,763891005,Renal hepatic pancreatic dysplasia,SNOMED
+35622644,764694005,MiT family translocation renal cell carcinoma,SNOMED
+35622697,764856008,Acquired cystic disease associated renal cell carcinoma,SNOMED
+35622779,764961009,Hereditary clear cell renal cell carcinoma,SNOMED
+35622797,764990003,Mucinous tubular and spindle cell renal carcinoma,SNOMED
+35622918,765154003,Hypertrophy of right kidney co-occurrent and due to congenital hypoplasia of left kidney,SNOMED
+35622919,765155002,Hypertrophy of left kidney co-occurrent and due to congenital hypoplasia of right kidney,SNOMED
+35622920,765156001,Small left kidney,SNOMED
+35622921,765157005,Small right kidney,SNOMED
+35623051,765330003,Autosomal dominant polycystic kidney disease,SNOMED
+35623052,765331004,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis,SNOMED
+35623263,765779008,Reflux nephropathy of left kidney due to vesicoureteral reflux,SNOMED
+35623428,765773009,Atrophy of left kidney,SNOMED
+35623429,765774003,Atrophy of right kidney,SNOMED
+35623430,765775002,Dysplasia of left kidney,SNOMED
+35623431,765776001,Dysplasia of right kidney,SNOMED
+35623432,765777005,Congenital left vesicoureterorenal reflux,SNOMED
+35623433,765778000,Congenital right vesicoureterorenal reflux,SNOMED
+35623820,766249007,Lowe Kohn Cohen syndrome,SNOMED
+35624165,766765009,Radio-renal syndrome,SNOMED
+35624383,767094002,Disorder of renal parenchyma,SNOMED
+35627150,90971000119103,Vasculitis with glomerulonephritis,SNOMED
+36517466,8959/1-C64.9,Cystic partially differentiated nephroblastoma of kidney,ICDO3
+36518145,8141/3-C64.9,Scirrhous adenocarcinoma of kidney,ICDO3
+36518195,8072/3-C65.9,"Squamous cell carcinoma, large cell, nonkeratinizing of renal pelvis",ICDO3
+36518272,9727/3-C65.9,Precursor cell lymphoblastic lymphoma of renal pelvis,ICDO3
+36518407,8810/3-C65.9,Fibrosarcoma of renal pelvis,ICDO3
+36518569,8004/3-C64.9,"Malignant tumor, spindle cell type of kidney",ICDO3
+36518586,9503/3-C64.9,Neuroepithelioma of kidney,ICDO3
+36518636,8981/3-C65.9,"Carcinosarcoma, embryonal of renal pelvis",ICDO3
+36519082,9684/3-C64.9,"Malignant lymphoma, large B-cell, diffuse, immunoblastic of kidney",ICDO3
+36519278,8014/3-C65.9,Large cell carcinoma with rhabdoid phenotype of renal pelvis,ICDO3
+36519392,8076/3-C65.9,"Squamous cell carcinoma, microinvasive of renal pelvis",ICDO3
+36519489,9661/3-C64.9,Hodgkin granuloma of kidney,ICDO3
+36519589,8720/3-C65.9,Malignant melanoma of renal pelvis,ICDO3
+36519700,8231/3-C65.9,Carcinoma simplex of renal pelvis,ICDO3
+36519808,9831/3-C64.9,T-cell large granular lymphocytic leukemia of kidney,ICDO3
+36519905,9755/3-C64.9,Histiocytic sarcoma of kidney,ICDO3
+36520204,8964/3-C65.9,Clear cell sarcoma of kidney of renal pelvis,ICDO3
+36520279,9698/3-C64.9,"Follicular lymphoma, grade 3 of kidney",ICDO3
+36520515,8480/3-C65.9,Mucinous adenocarcinoma of renal pelvis,ICDO3
+36520574,8052/3-C65.9,Papillary squamous cell carcinoma of renal pelvis,ICDO3
+36520690,8076/3-C64.9,"Squamous cell carcinoma, microinvasive of kidney",ICDO3
+36520828,9671/3-C65.9,"Malignant lymphoma, lymphoplasmacytic of renal pelvis",ICDO3
+36520918,9812/3-C64.9,B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1 of kidney,ICDO3
+36521026,9650/3-C65.9,Hodgkin lymphoma of renal pelvis,ICDO3
+36521157,8261/2-C65.9,Adenocarcinoma in situ in villous adenoma of renal pelvis,ICDO3
+36521205,8854/3-C65.9,Pleomorphic liposarcoma of renal pelvis,ICDO3
+36521379,8147/3-C65.9,Basal cell adenocarcinoma of renal pelvis,ICDO3
+36521515,8857/3-C64.9,Fibroblastic liposarcoma of kidney,ICDO3
+36521667,9654/3-C65.9,"Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis of renal pelvis",ICDO3
+36521829,9756/3-C65.9,Langerhans cell sarcoma of renal pelvis,ICDO3
+36521898,9695/3-C65.9,"Follicular lymphoma, grade 1 of renal pelvis",ICDO3
+36522052,8901/3-C65.9,"Pleomorphic rhabdomyosarcoma, adult type of renal pelvis",ICDO3
+36522120,9663/3-C65.9,"Hodgkin lymphoma, nodular sclerosis of renal pelvis",ICDO3
+36522226,9814/3-C64.9,B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1) of kidney,ICDO3
+36522588,9815/3-C65.9,B lymphoblastic leukemia/lymphoma with hyperdiploidy of renal pelvis,ICDO3
+36522898,8890/0-C65.9,Leiomyoma of renal pelvis,ICDO3
+36523013,9975/3-C65.9,"Myloproliferative neoplasm, unclassifiable of renal pelvis",ICDO3
+36523079,9655/3-C64.9,"Hodgkin lymphoma, lymphocyte depletion, reticular of kidney",ICDO3
+36523288,8959/0-C64.9,Benign cystic nephroma of kidney,ICDO3
+36523320,9504/3-C65.9,Spongioneuroblastoma of renal pelvis,ICDO3
+36523471,9501/3-C65.9,Medulloepithelioma of renal pelvis,ICDO3
+36523524,9818/3-C65.9,B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1) of renal pelvis,ICDO3
+36523601,9757/3-C65.9,Interdigitating dendritic cell sarcoma of renal pelvis,ICDO3
+36523777,9727/3-C64.9,Precursor cell lymphoblastic lymphoma of kidney,ICDO3
+36523882,9664/3-C65.9,"Hodgkin lymphoma, nodular sclerosis, cellular phase of renal pelvis",ICDO3
+36524032,9759/3-C64.9,Fibroblastic reticular cell tumor of kidney,ICDO3
+36524109,8857/3-C65.9,Fibroblastic liposarcoma of renal pelvis,ICDO3
+36524209,9817/3-C64.9,B lymphoblastic leukemia/lymphoma with t(5;14)(q31;q32); IL3-IGH of kidney,ICDO3
+36524257,8560/3-C64.9,Adenosquamous carcinoma of kidney,ICDO3
+36524344,8260/0-C64.9,Papillary adenoma of kidney,ICDO3
+36524396,9687/3-C65.9,Burkitt lymphoma of renal pelvis,ICDO3
+36524491,8813/3-C65.9,Fascial fibrosarcoma of renal pelvis,ICDO3
+36524599,8072/3-C64.9,"Squamous cell carcinoma, large cell, nonkeratinizing of kidney",ICDO3
+36524850,9729/3-C64.9,Precursor T-cell lymphoblastic lymphoma of kidney,ICDO3
+36524934,8562/3-C64.9,Epithelial-myoepithelial carcinoma of kidney,ICDO3
+36525140,9816/3-C65.9,B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL) of renal pelvis,ICDO3
+36525348,8896/3-C64.9,Myxoid leiomyosarcoma of kidney,ICDO3
+36525583,8002/3-C65.9,"Malignant tumor, small cell type of renal pelvis",ICDO3
+36525624,8123/3-C64.9,Basaloid carcinoma of kidney,ICDO3
+36526394,8810/3-C64.9,Fibrosarcoma of kidney,ICDO3
+36526408,9754/3-C65.9,"Langerhans cell histiocytosis, disseminated of renal pelvis",ICDO3
+36526429,9813/3-C65.9,B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged of renal pelvis,ICDO3
+36526469,8230/2-C65.9,"Ductal carcinoma in situ, solid type of renal pelvis",ICDO3
+36526638,9817/3-C65.9,B lymphoblastic leukemia/lymphoma with t(5;14)(q31;q32); IL3-IGH of renal pelvis,ICDO3
+36526682,8481/3-C65.9,Mucin-producing adenocarcinoma of renal pelvis,ICDO3
+36527060,9505/3-C65.9,"Ganglioglioma, anaplastic of renal pelvis",ICDO3
+36527077,8803/3-C64.9,Small cell sarcoma of kidney,ICDO3
+36527228,9758/3-C65.9,Follicular dendritic cell sarcoma of renal pelvis,ICDO3
+36527358,9044/3-C64.9,Clear cell sarcoma of kidney,ICDO3
+36527370,8900/3-C65.9,Rhabdomyosarcoma of renal pelvis,ICDO3
+36527392,8140/2-C65.9,Adenocarcinoma in situ of renal pelvis,ICDO3
+36527399,9724/3-C64.9,Systemic EBV positive T-cell lymphoproliferative disease of childhood of kidney,ICDO3
+36527400,9758/3-C64.9,Follicular dendritic cell sarcoma of kidney,ICDO3
+36527477,9814/3-C65.9,B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1) of renal pelvis,ICDO3
+36527581,8966/0-C64.9,Renomedullary interstitial cell tumor of kidney,ICDO3
+36527591,8123/3-C65.9,Basaloid carcinoma of renal pelvis,ICDO3
+36527810,8034/3-C64.9,Polygonal cell carcinoma of kidney,ICDO3
+36527915,9755/3-C65.9,Histiocytic sarcoma of renal pelvis,ICDO3
+36528234,9712/3-C64.9,Intravascular large B-cell lymphoma of kidney,ICDO3
+36528258,8031/3-C65.9,Giant cell carcinoma of renal pelvis,ICDO3
+36528335,9670/3-C65.9,"Malignant lymphoma, small B lymphocytic of renal pelvis",ICDO3
+36528513,8015/3-C65.9,Glassy cell carcinoma of renal pelvis,ICDO3
+36528611,8950/3-C64.9,Mullerian mixed tumor of kidney,ICDO3
+36528840,9837/3-C65.9,Precursor T-cell lymphoblastic leukemia of renal pelvis,ICDO3
+36528900,8231/3-C64.9,Carcinoma simplex of kidney,ICDO3
+36528914,8124/3-C65.9,Cloacogenic carcinoma of renal pelvis,ICDO3
+36528950,8853/3-C65.9,Round cell liposarcoma of renal pelvis,ICDO3
+36529391,8073/3-C65.9,"Squamous cell carcinoma, small cell, nonkeratinizing of renal pelvis",ICDO3
+36529846,9691/3-C64.9,"Follicular lymphoma, grade 2 of kidney",ICDO3
+36530191,8211/3-C65.9,Tubular adenocarcinoma of renal pelvis,ICDO3
+36530436,8190/3-C65.9,Trabecular adenocarcinoma of renal pelvis,ICDO3
+36530519,8190/3-C64.9,Trabecular adenocarcinoma of kidney,ICDO3
+36530593,9967/3-C64.9,Myeloid and lymphoid neoplasms with FGFR1 abnormalities of kidney,ICDO3
+36530877,8440/3-C64.9,Cystadenocarcinoma of kidney,ICDO3
+36530882,9815/3-C64.9,B lymphoblastic leukemia/lymphoma with hyperdiploidy of kidney,ICDO3
+36530918,9831/3-C65.9,T-cell large granular lymphocytic leukemia of renal pelvis,ICDO3
+36531209,9170/0-C64.9,Lymphangioma of kidney,ICDO3
+36531306,9665/3-C65.9,"Hodgkin lymphoma, nodular sclerosis, grade 1 of renal pelvis",ICDO3
+36531492,9691/3-C65.9,"Follicular lymphoma, grade 2 of renal pelvis",ICDO3
+36531710,9757/3-C64.9,Interdigitating dendritic cell sarcoma of kidney,ICDO3
+36531719,8806/3-C65.9,Desmoplastic small round cell tumor of renal pelvis,ICDO3
+36531834,9670/3-C64.9,"Malignant lymphoma, small B lymphocytic of kidney",ICDO3
+36531846,8902/3-C64.9,Mixed type rhabdomyosarcoma of kidney,ICDO3
+36531964,9728/3-C65.9,Precursor B-cell lymphoblastic lymphoma of renal pelvis,ICDO3
+36532091,8022/3-C65.9,Pleomorphic carcinoma of renal pelvis,ICDO3
+36532101,8935/1-C64.9,Stromal tumor of kidney,ICDO3
+36532107,9688/3-C65.9,T-cell/histiocyte rich large B-cell lymphoma of renal pelvis,ICDO3
+36532120,9712/3-C65.9,Intravascular large B-cell lymphoma of renal pelvis,ICDO3
+36532501,9837/3-C64.9,Precursor T-cell lymphoblastic leukemia of kidney,ICDO3
+36532536,9013/0-C64.9,Adenofibroma of kidney,ICDO3
+36532741,8894/3-C64.9,Angiomyosarcoma of kidney,ICDO3
+36532771,8030/3-C65.9,Giant cell and spindle cell carcinoma of renal pelvis,ICDO3
+36532792,8982/3-C65.9,Malignant myoepithelioma of renal pelvis,ICDO3
+36532933,9812/3-C65.9,B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1 of renal pelvis,ICDO3
+36533144,8211/3-C64.9,Tubular adenocarcinoma of kidney,ICDO3
+36533550,8323/3-C65.9,Mixed cell adenocarcinoma of renal pelvis,ICDO3
+36533774,9664/3-C64.9,"Hodgkin lymphoma, nodular sclerosis, cellular phase of kidney",ICDO3
+36534180,9671/3-C64.9,"Malignant lymphoma, lymphoplasmacytic of kidney",ICDO3
+36534288,8255/3-C65.9,Adenocarcinoma with mixed subtypes of renal pelvis,ICDO3
+36534298,8002/3-C64.9,"Malignant tumor, small cell type of kidney",ICDO3
+36534385,8013/3-C64.9,Large cell neuroendocrine carcinoma of kidney,ICDO3
+36534829,8894/3-C65.9,Angiomyosarcoma of renal pelvis,ICDO3
+36534961,9738/3-C64.9,Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease of kidney,ICDO3
+36535051,9702/3-C65.9,Mature T-cell lymphoma of renal pelvis,ICDO3
+36535250,9719/3-C64.9,"NK/T-cell lymphoma, nasal and nasal-type of kidney",ICDO3
+36535464,9965/3-C64.9,Myeloid and lymphoid neoplasms with PDGFRA rearrangement of kidney,ICDO3
+36535475,8802/3-C65.9,Giant cell sarcoma of renal pelvis,ICDO3
+36535783,8895/3-C65.9,Myosarcoma of renal pelvis,ICDO3
+36535908,8143/3-C65.9,Superficial spreading adenocarcinoma of renal pelvis,ICDO3
+36535944,8035/3-C64.9,Carcinoma with osteoclast-like giant cells of kidney,ICDO3
+36536027,8076/2-C65.9,Squamous cell carcinoma in situ with questionable stromal invasion of renal pelvis,ICDO3
+36536712,9967/3-C65.9,Myeloid and lymphoid neoplasms with FGFR1 abnormalities of renal pelvis,ICDO3
+36537190,8895/3-C64.9,Myosarcoma of kidney,ICDO3
+36537276,8950/3-C65.9,Mullerian mixed tumor of renal pelvis,ICDO3
+36537413,8320/3-C65.9,Granular cell carcinoma of renal pelvis,ICDO3
+36537439,9750/3-C64.9,Malignant histiocytosis of kidney,ICDO3
+36537706,9701/3-C65.9,Sezary syndrome of renal pelvis,ICDO3
+36537739,8005/3-C65.9,"Malignant tumor, clear cell type of renal pelvis",ICDO3
+36537804,9662/3-C65.9,Hodgkin sarcoma of renal pelvis,ICDO3
+36537949,8853/3-C64.9,Round cell liposarcoma of kidney,ICDO3
+36538004,9823/3-C64.9,B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma of kidney,ICDO3
+36538314,9750/3-C65.9,Malignant histiocytosis of renal pelvis,ICDO3
+36538331,8991/3-C64.9,Embryonal sarcoma of kidney,ICDO3
+36538341,8814/3-C64.9,Infantile fibrosarcoma of kidney,ICDO3
+36538452,9811/3-C64.9,B lymphoblastic leukemia/lymphoma of kidney,ICDO3
+36538575,8900/3-C64.9,Rhabdomyosarcoma of kidney,ICDO3
+36538889,8020/3-C64.9,"Carcinoma, undifferentiated of kidney",ICDO3
+36538968,8043/3-C65.9,"Small cell carcinoma, fusiform cell of renal pelvis",ICDO3
+36538982,9731/3-C65.9,Plasmacytoma of renal pelvis,ICDO3
+36539006,9651/3-C65.9,"Hodgkin lymphoma, lymphocyte-rich of renal pelvis",ICDO3
+36539032,8910/3-C64.9,Embryonal rhabdomyosarcoma of kidney,ICDO3
+36539127,9684/3-C65.9,"Malignant lymphoma, large B-cell, diffuse, immunoblastic of renal pelvis",ICDO3
+36539165,8124/3-C64.9,Cloacogenic carcinoma of kidney,ICDO3
+36539218,8050/2-C64.9,Papillary carcinoma in situ of kidney,ICDO3
+36539260,8801/3-C65.9,Spindle cell sarcoma of renal pelvis,ICDO3
+36539439,8850/3-C64.9,Liposarcoma of kidney,ICDO3
+36539490,9504/3-C64.9,Spongioneuroblastoma of kidney,ICDO3
+36539500,9701/3-C64.9,Sezary syndrome of kidney,ICDO3
+36539513,9502/3-C65.9,Teratoid medulloepithelioma of renal pelvis,ICDO3
+36539704,8021/3-C65.9,"Carcinoma, anaplastic of renal pelvis",ICDO3
+36539867,8004/3-C65.9,"Malignant tumor, spindle cell type of renal pelvis",ICDO3
+36539905,8440/3-C65.9,Cystadenocarcinoma of renal pelvis,ICDO3
+36540293,8074/3-C65.9,"Squamous cell carcinoma, spindle cell of renal pelvis",ICDO3
+36540488,8991/3-C65.9,Embryonal sarcoma of renal pelvis,ICDO3
+36540533,8020/3-C65.9,"Carcinoma, undifferentiated of renal pelvis",ICDO3
+36540594,8143/3-C64.9,Superficial spreading adenocarcinoma of kidney,ICDO3
+36540782,8854/3-C64.9,Pleomorphic liposarcoma of kidney,ICDO3
+36541253,9667/3-C65.9,"Hodgkin lymphoma, nodular sclerosis, grade 2 of renal pelvis",ICDO3
+36541567,9702/3-C64.9,Mature T-cell lymphoma of kidney,ICDO3
+36541598,8562/3-C65.9,Epithelial-myoepithelial carcinoma of renal pelvis,ICDO3
+36541679,8901/3-C64.9,"Pleomorphic rhabdomyosarcoma, adult type of kidney",ICDO3
+36541717,9673/3-C65.9,Mantle cell lymphoma of renal pelvis,ICDO3
+36541941,9659/3-C64.9,"Hodgkin lymphoma, nodular lymphocyte predominance of kidney",ICDO3
+36542035,8858/3-C65.9,Dedifferentiated liposarcoma of renal pelvis,ICDO3
+36542042,8261/2-C64.9,Adenocarcinoma in situ in villous adenoma of kidney,ICDO3
+36542138,9971/3-C64.9,Polymorphic post transplant lymphoproliferative disorder of kidney,ICDO3
+36542298,8902/3-C65.9,Mixed type rhabdomyosarcoma of renal pelvis,ICDO3
+36542974,8325/0-C64.9,Metanephric adenoma of kidney,ICDO3
+36543079,8806/3-C64.9,Desmoplastic small round cell tumor of kidney,ICDO3
+36543123,8960/1-C64.9,Mesoblastic nephroma of kidney,ICDO3
+36543434,9662/3-C64.9,Hodgkin sarcoma of kidney,ICDO3
+36543632,8852/3-C65.9,Myxoid liposarcoma of renal pelvis,ICDO3
+36543684,9663/3-C64.9,"Hodgkin lymphoma, nodular sclerosis of kidney",ICDO3
+36543693,8891/3-C64.9,Epithelioid leiomyosarcoma of kidney,ICDO3
+36543935,8033/3-C65.9,Pseudosarcomatous carcinoma of renal pelvis,ICDO3
+36544337,8803/3-C65.9,Small cell sarcoma of renal pelvis,ICDO3
+36544436,8959/3-C65.9,Malignant cystic nephroma of renal pelvis,ICDO3
+36544492,8980/3-C65.9,Carcinosarcoma of renal pelvis,ICDO3
+36544620,8011/3-C65.9,"Epithelioma, malignant of renal pelvis",ICDO3
+36544644,9751/3-C65.9,Langerhans cell histiocytosis of renal pelvis,ICDO3
+36544921,8021/3-C64.9,"Carcinoma, anaplastic of kidney",ICDO3
+36545341,9714/3-C65.9,"Anaplastic large cell lymphoma, T cell and Null cell type of renal pelvis",ICDO3
+36545632,8075/3-C64.9,"Squamous cell carcinoma, adenoid of kidney",ICDO3
+36545976,8073/3-C64.9,"Squamous cell carcinoma, small cell, nonkeratinizing of kidney",ICDO3
+36546584,9741/3-C65.9,Malignant mastocytosis of renal pelvis,ICDO3
+36546915,9560/0-C64.9,Neurilemoma of kidney,ICDO3
+36547206,8122/3-C64.9,"Transitional cell carcinoma, spindle cell of kidney",ICDO3
+36547292,9740/3-C64.9,Mast cell sarcoma of kidney,ICDO3
+36547407,8804/3-C64.9,Epithelioid sarcoma of kidney,ICDO3
+36547465,8003/3-C65.9,"Malignant tumor, giant cell type of renal pelvis",ICDO3
+36547468,9699/3-C65.9,Marginal zone B-cell lymphoma of renal pelvis,ICDO3
+36547841,9737/3-C65.9,ALK positive large B-cell lymphoma of renal pelvis,ICDO3
+36547960,9811/3-C65.9,B lymphoblastic leukemia/lymphoma of renal pelvis,ICDO3
+36548088,8805/3-C64.9,Undifferentiated sarcoma of kidney,ICDO3
+36548094,8855/3-C65.9,Mixed liposarcoma of renal pelvis,ICDO3
+36548140,8967/0-C64.9,Ossifying renal tumor of kidney,ICDO3
+36548689,8141/3-C65.9,Scirrhous adenocarcinoma of renal pelvis,ICDO3
+36549173,9596/3-C65.9,Composite Hodgkin and non-Hodgkin lymphoma of renal pelvis,ICDO3
+36549310,8801/3-C64.9,Spindle cell sarcoma of kidney,ICDO3
+36549353,9120/3-C65.9,Hemangiosarcoma of renal pelvis,ICDO3
+36550173,8481/3-C64.9,Mucin-producing adenocarcinoma of kidney,ICDO3
+36550400,9590/3-C64.9,Malignant lymphoma of kidney,ICDO3
+36550614,8230/3-C65.9,Solid carcinoma of renal pelvis,ICDO3
+36550685,8052/2-C64.9,"Papillary squamous cell carcinoma, non-invasive of kidney",ICDO3
+36550706,9756/3-C64.9,Langerhans cell sarcoma of kidney,ICDO3
+36550878,9741/3-C64.9,Malignant mastocytosis of kidney,ICDO3
+36551023,8951/3-C65.9,Mesodermal mixed tumor of renal pelvis,ICDO3
+36551250,8361/0-C64.9,Juxtaglomerular tumor of kidney,ICDO3
+36551290,8815/3-C64.9,"Solitary fibrous tumor, malignant of kidney",ICDO3
+36551509,9659/3-C65.9,"Hodgkin lymphoma, nodular lymphocyte predominance of renal pelvis",ICDO3
+36551862,9975/3-C64.9,"Myloproliferative neoplasm, unclassifiable of kidney",ICDO3
+36552447,9759/3-C65.9,Fibroblastic reticular cell tumor of renal pelvis,ICDO3
+36552452,8121/3-C64.9,Schneiderian carcinoma of kidney,ICDO3
+36552818,9740/3-C65.9,Mast cell sarcoma of renal pelvis,ICDO3
+36552910,9724/3-C65.9,Systemic EBV positive T-cell lymphoproliferative disease of childhood of renal pelvis,ICDO3
+36553053,9818/3-C64.9,B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1) of kidney,ICDO3
+36553184,8147/3-C64.9,Basal cell adenocarcinoma of kidney,ICDO3
+36553334,8851/3-C65.9,"Liposarcoma, well differentiated of renal pelvis",ICDO3
+36553509,8951/3-C64.9,Mesodermal mixed tumor of kidney,ICDO3
+36553528,8981/3-C64.9,"Carcinosarcoma, embryonal of kidney",ICDO3
+36553667,8811/3-C65.9,Fibromyxosarcoma of renal pelvis,ICDO3
+36553802,9719/3-C65.9,"NK/T-cell lymphoma, nasal and nasal-type of renal pelvis",ICDO3
+36553834,8082/3-C65.9,Lymphoepithelial carcinoma of renal pelvis,ICDO3
+36553933,9734/3-C65.9,"Plasmacytoma, extramedullary of renal pelvis",ICDO3
+36554017,8043/3-C64.9,"Small cell carcinoma, fusiform cell of kidney",ICDO3
+36554486,9650/3-C64.9,Hodgkin lymphoma of kidney,ICDO3
+36554505,9729/3-C65.9,Precursor T-cell lymphoblastic lymphoma of renal pelvis,ICDO3
+36554627,9653/3-C65.9,"Hodgkin lymphoma, lymphocyte depletion of renal pelvis",ICDO3
+36555247,9652/3-C65.9,"Hodgkin lymphoma, mixed cellularity of renal pelvis",ICDO3
+36555248,9653/3-C64.9,"Hodgkin lymphoma, lymphocyte depletion of kidney",ICDO3
+36555258,9665/3-C64.9,"Hodgkin lymphoma, nodular sclerosis, grade 1 of kidney",ICDO3
+36555262,8070/2-C65.9,Squamous cell carcinoma in situ of renal pelvis,ICDO3
+36555324,8560/3-C65.9,Adenosquamous carcinoma of renal pelvis,ICDO3
+36555351,9816/3-C64.9,B lymphoblastic leukemia/lymphoma with hypodiploidy (Hypodiploid ALL) of kidney,ICDO3
+36555375,8011/3-C64.9,"Epithelioma, malignant of kidney",ICDO3
+36555394,8052/3-C64.9,Papillary squamous cell carcinoma of kidney,ICDO3
+36555430,9655/3-C65.9,"Hodgkin lymphoma, lymphocyte depletion, reticular of renal pelvis",ICDO3
+36555508,9695/3-C64.9,"Follicular lymphoma, grade 1 of kidney",ICDO3
+36555563,9500/3-C65.9,Neuroblastoma of renal pelvis,ICDO3
+36555644,8022/3-C64.9,Pleomorphic carcinoma of kidney,ICDO3
+36555828,9150/1-C64.9,Hemangiopericytoma of kidney,ICDO3
+36556151,9505/3-C64.9,"Ganglioglioma, anaplastic of kidney",ICDO3
+36556451,9673/3-C64.9,Mantle cell lymphoma of kidney,ICDO3
+36556538,8815/3-C65.9,"Solitary fibrous tumor, malignant of renal pelvis",ICDO3
+36556631,9501/3-C64.9,Medulloepithelioma of kidney,ICDO3
+36556687,9591/3-C64.9,"Malignant lymphoma, non-Hodgkin of kidney",ICDO3
+36556705,8015/3-C64.9,Glassy cell carcinoma of kidney,ICDO3
+36556736,9714/3-C64.9,"Anaplastic large cell lymphoma, T cell and Null cell type of kidney",ICDO3
+36556775,8805/3-C65.9,Undifferentiated sarcoma of renal pelvis,ICDO3
+36556867,9705/3-C65.9,Angioimmunoblastic T-cell lymphoma of renal pelvis,ICDO3
+36557045,8012/3-C64.9,Large cell carcinoma of kidney,ICDO3
+36557088,8240/3-C65.9,Carcinoid tumor of renal pelvis,ICDO3
+36557102,8480/3-C64.9,Mucinous adenocarcinoma of kidney,ICDO3
+36557110,8075/3-C65.9,"Squamous cell carcinoma, adenoid of renal pelvis",ICDO3
+36557265,9120/0-C64.9,Hemangioma of kidney,ICDO3
+36557793,8815/0-C64.9,Solitary fibrous tumor of kidney,ICDO3
+36558436,8814/3-C65.9,Infantile fibrosarcoma of renal pelvis,ICDO3
+36558466,8030/3-C64.9,Giant cell and spindle cell carcinoma of kidney,ICDO3
+36558972,8120/1-C65.9,Urothelial papilloma of renal pelvis,ICDO3
+36559058,8852/3-C64.9,Myxoid liposarcoma of kidney,ICDO3
+36559099,8850/3-C65.9,Liposarcoma of renal pelvis,ICDO3
+36559336,9971/3-C65.9,Polymorphic post transplant lymphoproliferative disorder of renal pelvis,ICDO3
+36559379,8896/3-C65.9,Myxoid leiomyosarcoma of renal pelvis,ICDO3
+36559472,8230/2-C64.9,"Ductal carcinoma in situ, solid type of kidney",ICDO3
+36559654,8003/3-C64.9,"Malignant tumor, giant cell type of kidney",ICDO3
+36559771,9652/3-C64.9,"Hodgkin lymphoma, mixed cellularity of kidney",ICDO3
+36559986,8830/3-C65.9,Malignant fibrous histiocytoma of renal pelvis,ICDO3
+36560109,8121/3-C65.9,Schneiderian carcinoma of renal pelvis,ICDO3
+36560170,9590/3-C65.9,Malignant lymphoma of renal pelvis,ICDO3
+36560365,8051/3-C64.9,Verrucous carcinoma of kidney,ICDO3
+36560378,8014/3-C64.9,Large cell carcinoma with rhabdoid phenotype of kidney,ICDO3
+36560486,8910/3-C65.9,Embryonal rhabdomyosarcoma of renal pelvis,ICDO3
+36560588,8800/3-C65.9,Sarcoma of renal pelvis,ICDO3
+36560755,9675/3-C65.9,"Malignant lymphoma, mixed small and large cell, diffuse of renal pelvis",ICDO3
+36560885,8032/3-C65.9,Spindle cell carcinoma of renal pelvis,ICDO3
+36560913,9675/3-C64.9,"Malignant lymphoma, mixed small and large cell, diffuse of kidney",ICDO3
+36561008,8074/3-C64.9,"Squamous cell carcinoma, spindle cell of kidney",ICDO3
+36561030,8130/1-C65.9,Papillary transitional cell neoplasm of low malignant potential of renal pelvis,ICDO3
+36561058,9364/3-C64.9,Peripheral neuroectodermal tumor of kidney,ICDO3
+36561145,9502/3-C64.9,Teratoid medulloepithelioma of kidney,ICDO3
+36561547,8700/0-C64.9,Pheochromocytoma of kidney,ICDO3
+36561569,9690/3-C65.9,Follicular lymphoma of renal pelvis,ICDO3
+36561633,8855/3-C64.9,Mixed liposarcoma of kidney,ICDO3
+36561673,9180/3-C64.9,Osteosarcoma of kidney,ICDO3
+36561763,8051/3-C65.9,Verrucous carcinoma of renal pelvis,ICDO3
+36561957,8891/3-C65.9,Epithelioid leiomyosarcoma of renal pelvis,ICDO3
+36562195,9651/3-C64.9,"Hodgkin lymphoma, lymphocyte-rich of kidney",ICDO3
+36562274,8012/3-C65.9,Large cell carcinoma of renal pelvis,ICDO3
+36562531,8076/2-C64.9,Squamous cell carcinoma in situ with questionable stromal invasion of kidney,ICDO3
+36562590,8912/3-C64.9,Spindle cell rhabdomyosarcoma of kidney,ICDO3
+36562830,9654/3-C64.9,"Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis of kidney",ICDO3
+36562975,8078/3-C65.9,Squamous cell carcinoma with horn formation of renal pelvis,ICDO3
+36563051,8261/0-C65.9,Villous adenoma of renal pelvis,ICDO3
+36563190,8131/3-C65.9,"Transitional cell carcinoma, micropapillary of renal pelvis",ICDO3
+36563386,9965/3-C65.9,Myeloid and lymphoid neoplasms with PDGFRA rearrangement of renal pelvis,ICDO3
+36563658,9180/3-C65.9,Osteosarcoma of renal pelvis,ICDO3
+36563767,9687/3-C64.9,Burkitt lymphoma of kidney,ICDO3
+36564442,8990/3-C64.9,"Mesenchymoma, malignant of kidney",ICDO3
+36564492,9596/3-C64.9,Composite Hodgkin and non-Hodgkin lymphoma of kidney,ICDO3
+36564657,8052/2-C65.9,"Papillary squamous cell carcinoma, non-invasive of renal pelvis",ICDO3
+36564938,9503/3-C65.9,Neuroepithelioma of renal pelvis,ICDO3
+36564947,8052/0-C65.9,Squamous cell papilloma of renal pelvis,ICDO3
+36565024,9737/3-C64.9,ALK positive large B-cell lymphoma of kidney,ICDO3
+36565081,8140/2-C64.9,Adenocarcinoma in situ of kidney,ICDO3
+36565110,8031/3-C64.9,Giant cell carcinoma of kidney,ICDO3
+36565215,8802/3-C64.9,Giant cell sarcoma of kidney,ICDO3
+36565280,9813/3-C64.9,B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged of kidney,ICDO3
+36565337,8813/3-C64.9,Fascial fibrosarcoma of kidney,ICDO3
+36565338,9667/3-C64.9,"Hodgkin lymphoma, nodular sclerosis, grade 2 of kidney",ICDO3
+36565611,8013/3-C65.9,Large cell neuroendocrine carcinoma of renal pelvis,ICDO3
+36565627,8120/2-C64.9,Transitional cell carcinoma in situ of kidney,ICDO3
+36565780,9738/3-C65.9,Large B-cell lymphoma arising in HHV8-associated multicentric Castleman disease of renal pelvis,ICDO3
+36565853,9591/3-C65.9,"Malignant lymphoma, non-Hodgkin of renal pelvis",ICDO3
+36565855,9661/3-C65.9,Hodgkin granuloma of renal pelvis,ICDO3
+36565892,9705/3-C64.9,Angioimmunoblastic T-cell lymphoma of kidney,ICDO3
+36565944,9754/3-C64.9,"Langerhans cell histiocytosis, disseminated of kidney",ICDO3
+36566173,8070/2-C64.9,Squamous cell carcinoma in situ of kidney,ICDO3
+36566554,9699/3-C64.9,Marginal zone B-cell lymphoma of kidney,ICDO3
+36566602,9751/3-C64.9,Langerhans cell histiocytosis of kidney,ICDO3
+36566658,9688/3-C64.9,T-cell/histiocyte rich large B-cell lymphoma of kidney,ICDO3
+36566748,8811/3-C64.9,Fibromyxosarcoma of kidney,ICDO3
+36566750,8912/3-C65.9,Spindle cell rhabdomyosarcoma of renal pelvis,ICDO3
+36566992,8990/3-C65.9,"Mesenchymoma, malignant of renal pelvis",ICDO3
+36567028,8890/0-C64.9,Leiomyoma of kidney,ICDO3
+36567033,9823/3-C65.9,B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma of renal pelvis,ICDO3
+36567048,8078/3-C64.9,Squamous cell carcinoma with horn formation of kidney,ICDO3
+36567156,9735/3-C65.9,Plasmablastic lymphoma of renal pelvis,ICDO3
+36567157,9735/3-C64.9,Plasmablastic lymphoma of kidney,ICDO3
+36567389,9728/3-C64.9,Precursor B-cell lymphoblastic lymphoma of kidney,ICDO3
+36567519,8982/3-C64.9,Malignant myoepithelioma of kidney,ICDO3
+36567595,8034/3-C65.9,Polygonal cell carcinoma of renal pelvis,ICDO3
+36567792,8804/3-C65.9,Epithelioid sarcoma of renal pelvis,ICDO3
+36674397,773737004,"Renal, hepatic, pancreatic dysplasia, Dandy-Walker cysts syndrome",SNOMED
+36674517,778025006,Atypical hypotonia cystinuria syndrome,SNOMED
+36674698,770414008,Alport syndrome,SNOMED
+36674996,771149000,"Hepatic fibrosis, renal cyst, intellectual disability syndrome",SNOMED
+36675029,771266007,"Torticollis, keloids, cryptorchidism, renal dysplasia syndrome",SNOMED
+36675121,771447009,Laminin subunit beta 2 related infantile-onset nephrotic syndrome,SNOMED
+36675149,771477003,15q overgrowth syndrome,SNOMED
+36675174,771509001,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial deoxyribonucleic acid mutation,SNOMED
+36675665,772125001,Anomaly of foetal kidney,SNOMED
+36676681,773647007,"Nephrotic syndrome, hearing loss, pretibial epidermolysis bullosa syndrome",SNOMED
+36678497,775909002,"Congenital neutropenia, bone marrow fibrosis, nephromegaly syndrome",SNOMED
+36679002,776416004,"Hyperuricaemia, pulmonary hypertension, renal failure, alkalosis syndrome",SNOMED
+36684822,353961000119108,Benign neoplasm of right kidney,SNOMED
+36684823,354121000119104,Benign neoplasm of left kidney,SNOMED
+36686408,11798951000119105,Injury of right renal artery,SNOMED
+36686409,11798991000119100,Injury of left renal artery,SNOMED
+36686411,11799361000119102,Laceration of right renal artery,SNOMED
+36686412,11799401000119106,Laceration of left renal artery,SNOMED
+36686415,11799811000119107,Injury of right renal vein,SNOMED
+36686416,11799851000119108,Injury of left renal vein,SNOMED
+36686419,11800851000119104,Laceration of right kidney,SNOMED
+36686420,11800891000119109,Laceration of left kidney,SNOMED
+36686421,11801171000119107,Contusion of right kidney,SNOMED
+36686422,11801251000119105,Contusion of left kidney,SNOMED
+36687230,16697021000119105,Congenital anomaly of right renal vein,SNOMED
+36687231,16697101000119102,Congenital anomaly of left renal vein,SNOMED
+36712710,1079001000119106,Angiomyolipoma of right kidney,SNOMED
+36712734,1081231000119103,Oncocytoma of left kidney,SNOMED
+36712735,1081241000119107,Oncocytoma of right kidney,SNOMED
+36712747,1082281000119105,Transitional cell carcinoma of left renal pelvis,SNOMED
+36712748,1082301000119109,Transitional cell carcinoma of right renal pelvis,SNOMED
+36712808,12237271000119105,Aneurysm of left renal artery,SNOMED
+36712809,12237311000119105,Aneurysm of right renal artery,SNOMED
+36712846,12511000132108,Persistent proteinuria,SNOMED
+36712939,15638291000119105,Angiomyolipoma of bilateral kidneys,SNOMED
+36712955,15648771000119103,Atherosclerosis of bilateral renal arteries,SNOMED
+36713241,42231000009109,Bacterial nephritis,SNOMED
+36713418,717734005,Papillary thyroid carcinoma with renal papillary neoplasia,SNOMED
+36713419,717735006,Renal cell carcinoma of kidney except renal pelvis,SNOMED
+36713420,717736007,Familial renal cell carcinoma,SNOMED
+36713423,717742006,Primary renal dysplasia,SNOMED
+36713424,717744007,Secondary renal dysplasia,SNOMED
+36713425,717746009,Congenital hemorrhagic renal cyst,SNOMED
+36713426,717748005,Bilateral medullary sponge kidney,SNOMED
+36713427,717749002,Bilateral multicystic renal dysplasia,SNOMED
+36713436,717760006,Multi-drug resistant nephrotic syndrome,SNOMED
+36713440,717766000,Alport syndrome autosomal dominant,SNOMED
+36713441,717767009,Alport syndrome autosomal recessive,SNOMED
+36713442,717768004,Alport syndrome X-linked,SNOMED
+36713444,717770008,Aristolochic acid nephropathy,SNOMED
+36713449,717776002,Acquired hydronephrosis due to bladder obstruction,SNOMED
+36713455,717789008,Dent disease type 1,SNOMED
+36713456,717790004,Dent disease type 2,SNOMED
+36713457,717791000,Bartter syndrome type 4a,SNOMED
+36713576,717952004,Acquired hydronephrosis due to ureteropelvic junction obstruction,SNOMED
+36714553,719840003,Ulbright Hodes syndrome,SNOMED
+36714973,720414005,Acrorenal mandibular syndrome,SNOMED
+36714974,720415006,Acrorenoocular syndrome,SNOMED
+36715003,720458005,Acrorenal syndrome,SNOMED
+36715051,720519003,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome",SNOMED
+36715351,720982007,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome",SNOMED
+36715477,721167009,Hydronephrosis due to bladder obstruction,SNOMED
+36715478,721168004,Hydronephrosis due to congenital ureteropelvic junction obstruction,SNOMED
+36715479,721169007,Hydronephrosis due to ureteral obstruction,SNOMED
+36715482,721173005,Hypotonia cystinuria syndrome,SNOMED
+36715483,721175003,Idiopathic glomerular disease,SNOMED
+36715497,721191000,Necrosis of capillary of kidney due to glomerular disease,SNOMED
+36715509,721207002,"Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome",SNOMED
+36715581,721297008,Galloway Mowat syndrome,SNOMED
+36716029,721840000,"Hyperuricemia, anemia, renal failure syndrome",SNOMED
+36716160,722065002,Okamoto syndrome,SNOMED
+36716169,722077007,Renal papillary necrosis caused by analgesic drug,SNOMED
+36716172,722081007,Obstructive nephropathy due to prostate cancer,SNOMED
+36716173,722082000,Obstructive nephropathy due to prostatic hypertrophy,SNOMED
+36716176,722086002,Malignancy-associated membranous nephropathy,SNOMED
+36716177,722088001,Obstructive nephropathy due to malignancy,SNOMED
+36716178,722089009,Obstructive nephropathy due to bladder cancer,SNOMED
+36716182,722095005,Acute kidney injury due to circulatory failure,SNOMED
+36716183,722096006,Acute kidney injury due to hypovolemia,SNOMED
+36716184,722098007,Chronic kidney disease following donor nephrectomy,SNOMED
+36716199,722119002,Idiopathic membranous glomerulonephritis,SNOMED
+36716200,722120008,Drug-induced membranous nephropathy,SNOMED
+36716214,722139003,Focal segmental glomerulosclerosis caused by lithium,SNOMED
+36716221,722147003,Focal segmental glomerulosclerosis due to sickle cell disease,SNOMED
+36716231,722168002,Infection-associated membranous nephropathy,SNOMED
+36716270,722223000,Cyst of kidney,SNOMED
+36716275,722231005,Perlman syndrome,SNOMED
+36716312,722278006,Acute kidney injury due to sepsis,SNOMED
+36716390,722381004,Crome syndrome,SNOMED
+36716428,722431007,"Double uterus, hemivagina, renal agenesis syndrome",SNOMED
+36716430,722433005,Dyschondrosteosis and nephritis syndrome,SNOMED
+36716448,722457005,"Juvenile cataract, microcornea, renal glucosuria syndrome",SNOMED
+36716454,722466009,Traumatic loss of kidney,SNOMED
+36716455,722467000,Chronic kidney disease due to traumatic loss of kidney,SNOMED
+36716456,722468005,Distal renal tubular acidosis co-occurrent with sensorineural deafness,SNOMED
+36716649,722758004,Complement component 3 glomerulopathy,SNOMED
+36716650,722759007,Glomerulopathy with fibronectin deposits 2,SNOMED
+36716651,722761003,Complement component 3 glomerulonephritis,SNOMED
+36716853,723074006,Renal papillary necrosis due to diabetes mellitus,SNOMED
+36716945,723188008,Renal insufficiency,SNOMED
+36716946,723189000,Acute renal insufficiency,SNOMED
+36716947,723190009,Chronic renal insufficiency,SNOMED
+36717038,717745008,Bilateral secondary renal dysplasia,SNOMED
+36717191,721862000,Joubert syndrome with oculorenal defect,SNOMED
+36717210,722294004,Autosomal dominant intermediate Charcot-Marie-Tooth disease type E,SNOMED
+36717238,722948009,Glomerular disorder due to non-neuropathic heredofamilial amyloidosis,SNOMED
+36717258,1078991000119106,Angiomyolipoma of left kidney,SNOMED
+36717347,721970009,Persistent Mullerian derivative with lymphangiectasia and polydactyly syndrome,SNOMED
+36717349,722150000,Chronic kidney disease due to systemic infection,SNOMED
+36717451,721170008,Hydronephrosis due to ureteral orifice obstruction,SNOMED
+36717528,722078002,Acquired obstructive nephropathy due to neurogenic bladder,SNOMED
+36717529,722085003,Renal papillary necrosis due to sickle cell disease,SNOMED
+36717532,722118005,Congenital nephrotic syndrome due to congenital infection,SNOMED
+36717534,722149000,Chronic kidney disease following excision of renal neoplasm,SNOMED
+36717553,722369003,Congenital nephrotic syndrome due to diffuse mesangial sclerosis,SNOMED
+36717581,722721004,Familial hemolytic uremic syndrome,SNOMED
+36717583,722760002,Dense deposit disease,SNOMED
+36717633,717750002,Bilateral congenital primary hydronephrosis,SNOMED
+36717761,719839000,Tubular renal disease with cardiomyopathy syndrome,SNOMED
+37016141,111631000119106,Congenital pyelectasia,SNOMED
+37016147,116291000119103,Occlusion of renal artery due to embolism,SNOMED
+37016161,127911000119105,Light chain nephropathy due to multiple myeloma,SNOMED
+37016279,308751000119106,Glomerular disease due to systemic lupus erythematosus,SNOMED
+37016335,367051000119105,Morphologic change of kidney due to chronic nephritic syndrome,SNOMED
+37016341,367611000119100,Hydronephrosis co-occurrent and due to ureteral stricture,SNOMED
+37016359,368871000119106,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016360,368881000119109,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016361,368901000119106,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016362,368911000119109,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016363,368921000119102,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016364,368931000119104,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III,SNOMED
+37016365,368941000119108,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III,SNOMED
+37016366,368951000119105,Acute renal failure caused by contrast agent,SNOMED
+37016889,713036004,Dissection of renal artery,SNOMED
+37017104,713313000,Chronic kidney disease mineral and bone disorder,SNOMED
+37017217,713453003,Renal impairment caused by Polyomavirus,SNOMED
+37017260,713504001,Disorder of kidney co-occurrent with human immunodeficiency virus infection,SNOMED
+37017321,713574000,Malignant carcinoid tumor of kidney,SNOMED
+37017424,713695001,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection,SNOMED
+37017425,713696000,Renal failure syndrome co-occurrent with human immunodeficiency virus infection,SNOMED
+37017533,713825007,Transplant renal artery stenosis,SNOMED
+37017585,713886006,BK virus nephropathy,SNOMED
+37017586,713887002,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection,SNOMED
+37017813,714152005,Chronic kidney disease stage 5 on dialysis,SNOMED
+37018341,714813000,Recurrent hematuria co-occurrent and due to dense deposit disease,SNOMED
+37018342,714814006,Persistent hematuria co-occurrent and due to dense deposit disease,SNOMED
+37018343,714815007,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED
+37018344,714816008,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis,SNOMED
+37018345,714817004,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED
+37018634,85381000119105,Glomerulonephritis due to Henoch-Schönlein purpura,SNOMED
+37018761,714153000,Chronic kidney disease stage 5 with transplant,SNOMED
+37018886,111411000119103,End stage renal disease due to hypertension,SNOMED
+37019162,714818009,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis,SNOMED
+37019193,691421000119108,Anemia co-occurrent and due to chronic kidney disease stage 3,SNOMED
+37109302,354351000119105,Primary malignant neoplasm of left kidney,SNOMED
+37109303,354361000119107,Primary malignant neoplasm of right kidney,SNOMED
+37109595,723333000,Faciocardiorenal syndrome,SNOMED
+37109615,723363009,"Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome",SNOMED
+37109623,723373006,UMOD-related autosomal dominant tubulointerstitial kidney disease,SNOMED
+37109646,723409007,"Multinodular goiter, cystic kidney, polydactyly syndrome",SNOMED
+37109670,723449004,Pierson syndrome,SNOMED
+37109722,723555007,"Thymic, renal, anal, lung dysplasia syndrome",SNOMED
+37109842,723720008,SERKAL syndrome,SNOMED
+37109992,723995003,Schimke immuno-osseous dysplasia,SNOMED
+37109994,723999009,RHYNS syndrome,SNOMED
+37110036,724062000,"Proximal tubulopathy, diabetes mellitus, cerebellar ataxia syndrome",SNOMED
+37110062,724094005,"Neonatal diabetes, congenital hypothyroidism, congenital glaucoma, hepatic fibrosis, polycystic kidney syndrome",SNOMED
+37110066,724099000,Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome,SNOMED
+37110281,724485008,Gestational proteinuria without hypertension,SNOMED
+37110712,725033008,Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis without severe ocular involvement,SNOMED
+37111021,725592009,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization,SNOMED
+37111247,725908007,Neurofaciodigitorenal syndrome,SNOMED
+37111318,726018006,Autosomal dominant tubulointerstitial kidney disease,SNOMED
+37111358,726082003,Immunotactoid glomerulonephritis,SNOMED
+37111374,726106004,X-linked diffuse leiomyomatosis with Alport syndrome,SNOMED
+37111531,726541005,Acute kidney injury due to trauma,SNOMED
+37116398,733096007,Thyrocerebrorenal syndrome,SNOMED
+37116399,733097003,"Ichthyosis, intellectual disability, dwarfism, renal impairment syndrome",SNOMED
+37116412,733116005,"Aniridia, renal agenesis, psychomotor retardation syndrome",SNOMED
+37116430,733137002,Acute kidney failure stage 1,SNOMED
+37116431,733138007,Acute kidney failure stage 2,SNOMED
+37116432,733139004,Acute kidney failure stage 3,SNOMED
+37116582,733342000,Ischemic contracture of kidney,SNOMED
+37116655,733453005,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome",SNOMED
+37116669,733470002,Collecting duct carcinoma of kidney,SNOMED
+37116670,733471003,Chromophobe renal cell carcinoma,SNOMED
+37116726,733603009,Tubulocystic renal cell carcinoma,SNOMED
+37116731,733608000,Papillary renal cell carcinoma,SNOMED
+37116750,733650000,Adult familial nephronophthisis with spastic quadriparesia syndrome,SNOMED
+37116834,733839001,Postpartum acute renal failure,SNOMED
+37116954,734015000,Clear cell papillary renal cell carcinoma,SNOMED
+37117163,723440000,Nephrogenic syndrome of inappropriate antidiuresis,SNOMED
+37117747,733089005,"Spastic paraplegia, nephritis, deafness syndrome",SNOMED
+37117931,725905005,Infundibulopelvic stenosis multicystic kidney syndrome,SNOMED
+37117943,726017001,MUC1-related autosomal dominant tubulointerstitial kidney disease,SNOMED
+37118677,733472005,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome",SNOMED
+37119067,724282009,"Hypoparathyroidism, deafness, renal disease syndrome",SNOMED
+37119131,724469003,Congenital secondary hydronephrosis,SNOMED
+37395514,1048451000000103,Acute kidney injury due to acute tubular necrosis due to hypovolaemia,SNOMED
+37395516,1048481000000109,Acute kidney injury due to acute tubular necrosis due to circulatory failure,SNOMED
+37395517,1048491000000106,Acute kidney injury due to acute tubular necrosis due to sepsis,SNOMED
+37395518,1048501000000100,Acute kidney injury due to acute tubular necrosis with histological evidence,SNOMED
+37395519,1048511000000103,Acute kidney injury due to acute tubular necrosis due to hypovolaemia with histological evidence,SNOMED
+37395520,1048521000000109,Acute kidney injury due to acute tubular necrosis due to sepsis with histological evidence,SNOMED
+37395521,1048541000000102,Acute kidney injury due to acute tubular necrosis due to circulatory failure with histological evidence,SNOMED
+37395585,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus,SNOMED
+37396325,716094008,Saito Kuba Tsuruta syndrome,SNOMED
+37396398,716200002,Schofer Beetz Bohl syndrome,SNOMED
+37396743,716657000,Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome,SNOMED
+37396992,716999001,Joubert syndrome with renal defect,SNOMED
+37397143,717187000,Boichis syndrome,SNOMED
+37397147,717191005,Sporadic idiopathic steroid-resistant nephrotic syndrome,SNOMED
+37397205,717263009,Transient pseudohypoaldosteronism,SNOMED
+37397208,717267005,Left renal vein entrapment syndrome,SNOMED
+37397492,718141008,Familial idiopathic steroid-resistant nephrotic syndrome,SNOMED
+37397533,718192000,Non-amyloid fibrillary glomerulonephritis,SNOMED
+37397763,89681000119101,Glomerulonephritis co-occurrent and due to scleroderma,SNOMED
+37399017,716864001,Hemorrhagic fever with renal syndrome,SNOMED
+37399431,715215007,WAGR syndrome,SNOMED
+37399735,295121000119101,Nephrosis co-occurrent and due to systemic lupus erythematosus,SNOMED
+40317643,155876003,Non-functioning kidney,SNOMED
+40479850,444558002,Infantile nephronophthisis,SNOMED
+40480260,444645005,Dent's disease,SNOMED
+40480627,444691002,Renal cortical necrosis,SNOMED
+40480691,444749006,Adolescent nephronophthisis,SNOMED
+40480859,441815006,Proliferative glomerulonephritis,SNOMED
+40480922,441872001,Renal scarring,SNOMED
+40481064,444794000,Acute renal cortical necrosis,SNOMED
+40481092,444819004,Polyarteritis of kidney,SNOMED
+40481104,444830001,Juvenile nephronophthisis,SNOMED
+40481571,444954005,Left kidney present,SNOMED
+40481572,444955006,Right kidney present,SNOMED
+40481595,444976001,Congenital hemolytic uremic syndrome,SNOMED
+40481596,444977005,Autosomal dominant focal segmental glomerulosclerosis,SNOMED
+40482075,445108007,Age related reduction of renal function,SNOMED
+40482087,445119005,Steroid sensitive nephrotic syndrome of childhood,SNOMED
+40482088,445120004,Uremia due to inadequate renal perfusion,SNOMED
+40482458,445170001,Macroalbuminuric diabetic nephropathy,SNOMED
+40482857,445236007,Cardiorenal syndrome,SNOMED
+40482881,445258009,Idiopathic rapidly progressive glomerulonephritis,SNOMED
+40483229,443768001,Left kidney absent,SNOMED
+40483272,443806007,Right kidney absent,SNOMED
+40483353,445388002,Autosomal recessive focal segmental glomerulosclerosis,SNOMED
+40483372,445404003,Familial immunoglobulin A nephropathy,SNOMED
+40487130,449408005,Disorder of kidney due to kappa light chain disease,SNOMED
+40487131,449409002,Disorder of kidney due to lambda light chain disease,SNOMED
+40487865,446449009,Renal coloboma syndrome,SNOMED
+40488899,448215006,Carcinoma of renal pelvis,SNOMED
+40490326,446923008,Lipoprotein glomerulopathy,SNOMED
+40490398,446989009,Nephronophthisis type 4,SNOMED
+40490401,446991001,Nephronophthisis type 5,SNOMED
+40492326,447335007,Nephronophthisis type 6,SNOMED
+42536261,734990008,Primary hyperoxaluria type III,SNOMED
+42536511,735430007,Irregularly contracted kidney,SNOMED
+42536545,735471001,Complex renal cyst,SNOMED
+42536547,735474009,Ischemia of kidney,SNOMED
+42536548,735475005,Renal hypocalciuria,SNOMED
+42537219,736450002,Partial traumatic rupture of ureteropelvic junction,SNOMED
+42537220,736451003,Partial rupture of ureteropelvic junction,SNOMED
+42537304,736640009,Hydronephrosis co-occurrent and due to calculus of kidney and ureter,SNOMED
+42537547,736992003,Nephropathy following pre-eclampsia,SNOMED
+42537548,736993008,Nephropathy following eclampsia,SNOMED
+42537766,737327002,Renal failure following molar pregnancy,SNOMED
+42537890,737562008,Multicystic renal dysplasia,SNOMED
+42538535,762261001,Persistent albuminuria,SNOMED
+42538557,762288006,Neonatal hemorrhage of kidney,SNOMED
+42538752,762531008,Renal hypersensitivity caused by drug,SNOMED
+42538919,762907005,Left renal agenesis,SNOMED
+42538920,762908000,Right renal agenesis,SNOMED
+42538921,762909008,Left renal agenesis co-occurrent with right renal hypoplasia,SNOMED
+42538922,762910003,Right renal agenesis co-occurrent with left renal hypoplasia,SNOMED
+42538923,762911004,Right renal agenesis co-occurrent with left renal dysplasia,SNOMED
+42538924,762912006,Left renal agenesis co-occurrent with right renal dysplasia,SNOMED
+42538925,762913001,Left renal hypoplasia,SNOMED
+42538926,762914007,Right renal hypoplasia,SNOMED
+42539197,101711000119105,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis,SNOMED
+42539502,737295003,Transplanted kidney present,SNOMED
+42572888,345001000009103,Contagious bovine pyelonephritis,SNOMED Veterinary
+42573007,349271000009101,Porcine pyelonephritis,SNOMED Veterinary
+42573330,39391000009106,Renal tubular necrosis,SNOMED Veterinary
+42574136,352111000009108,Ochratoxin-induced porcine nephropathy,SNOMED Veterinary
+42574148,356531000009109,Microvesicular steatosis of kidney,SNOMED Veterinary
+42593500,282171000009101,Mass of cortex of kidney,SNOMED Veterinary
+42593502,282181000009104,Mineralization of renal cortex,SNOMED Veterinary
+42593503,282191000009102,Ecchymosis of kidney,SNOMED Veterinary
+42593533,282481000009108,Familial renal hypoplasia,SNOMED Veterinary
+42593534,282491000009105,Granuloma of kidney,SNOMED Veterinary
+42593535,282501000009102,Abnormal shape of kidney,SNOMED Veterinary
+42593537,282511000009100,Mass of renal medulla,SNOMED Veterinary
+42593538,282521000009108,Renal necrosis,SNOMED Veterinary
+42593539,282531000009105,Renal papillary adenoma,SNOMED Veterinary
+42593540,282541000009104,Petechia of kidney,SNOMED Veterinary
+42593541,282571000009107,Abnormal radiographic opacity of kidney,SNOMED Veterinary
+42593542,282581000009109,Small kidney,SNOMED Veterinary
+42593543,282591000009106,Tubulointerstitial nephropathy,SNOMED Veterinary
+42593544,282601000009103,Degeneration of tubules of kidney,SNOMED Veterinary
+42593547,282621000009109,Parasitic infection of kidney,SNOMED Veterinary
+42593548,282631000009106,Drug-induced nephrotoxicosis,SNOMED Veterinary
+42596215,309511000009104,Adenocarcinoma of kidney,SNOMED Veterinary
+42597049,318441000009108,Polycystic kidney disease,SNOMED Veterinary
+42598583,334851000009105,Mould nephropathy of swine,SNOMED Veterinary
+42598600,335441000009106,Bacterial kidney disease of fish,SNOMED Veterinary
+42598968,344011000009100,Renal adenocarcinoma in Rana pipiens,SNOMED Veterinary
+42599572,357171000009103,White spotted kidney disease,SNOMED Veterinary
+42599648,357931000009103,Chronic kidney disease IRIS stage 1,SNOMED Veterinary
+42599649,357941000009109,Chronic kidney disease IRIS stage 2,SNOMED Veterinary
+42599650,357951000009107,Chronic kidney disease IRIS stage 3,SNOMED Veterinary
+42599651,357961000009105,Chronic kidney disease IRIS stage 4,SNOMED Veterinary
+42600089,41291000009104,Bacterial pyelonephritis,SNOMED Veterinary
+42600154,42581000009105,Multifocal glomerulopathy,SNOMED Veterinary
+42600293,44391000009106,Avian viral nephritis,SNOMED Veterinary
+42600328,44751000009102,Infraglomerular reflux,SNOMED Veterinary
+42600389,45631000009100,Focal suppurative nephritis,SNOMED Veterinary
+42600414,45921000009108,Tubulonephritis,SNOMED Veterinary
+42709948,449820008,Steroid resistant nephrotic syndrome of childhood,SNOMED
+42872405,1801000119106,"Anemia, pre-end stage renal disease on erythropoietin protocol",SNOMED
+43020437,153851000119106,Malignant hypertensive chronic kidney disease stage 5,SNOMED
+43020455,285841000119104,Malignant hypertensive end stage renal disease,SNOMED
+43020456,285871000119106,Malignant hypertensive chronic kidney disease stage 3,SNOMED
+43020457,285881000119109,Malignant hypertensive chronic kidney disease stage 4,SNOMED
+43021188,460365008,Systemic to pulmonary collateral artery from right renal artery,SNOMED
+43021422,473195006,Normal renal function of transplanted kidney,SNOMED
+43021748,473392002,Hypertensive nephrosclerosis,SNOMED
+43021835,96731000119100,Hypertensive heart AND chronic kidney disease stage 3,SNOMED
+43021836,96741000119109,Hypertensive heart AND chronic kidney disease stage 2,SNOMED
+43021852,285831000119108,Malignant hypertensive chronic kidney disease,SNOMED
+43021853,285851000119102,Malignant hypertensive chronic kidney disease stage 1,SNOMED
+43021854,285861000119100,Malignant hypertensive chronic kidney disease stage 2,SNOMED
+43021864,286371000119107,Malignant hypertensive end stage renal disease on dialysis,SNOMED
+43021972,460375006,Systemic to pulmonary collateral artery from left renal artery,SNOMED
+43530912,609452007,Induced termination of pregnancy complicated by renal failure,SNOMED
+43530914,609455009,Induced termination of pregnancy complicated by acute renal failure,SNOMED
+43530928,609472002,Induced termination of pregnancy complicated by acute renal failure with oliguria,SNOMED
+43530935,609482001,Induced termination of pregnancy complicated by renal tubular necrosis,SNOMED
+43530944,609490001,Induced termination of pregnancy complicated by uremia,SNOMED
+43531559,751000119104,Chronic kidney disease stage 1 due to type 2 diabetes mellitus,SNOMED
+43531562,711000119100,Chronic kidney disease stage 5 due to type 2 diabetes mellitus,SNOMED
+43531566,741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED
+43531577,721000119107,Chronic kidney disease stage 4 due to type 2 diabetes mellitus,SNOMED
+43531578,771000119108,Chronic kidney disease due to type 2 diabetes mellitus,SNOMED
+43531653,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED
+44498982,9150/3-C64.9,"Hemangiopericytoma, malignant of kidney",ICDO3
+44499439,8260/3-C65.9,Papillary adenocarcinoma of renal pelvis,ICDO3
+44499523,8890/3-C65.9,Leiomyosarcoma of renal pelvis,ICDO3
+44499553,8310/3-C64.9,Clear cell adenocarcinoma of kidney,ICDO3
+44499576,8980/3-C64.9,Carcinosarcoma of kidney,ICDO3
+44499635,8131/3-C64.9,"Transitional cell carcinoma, micropapillary of kidney",ICDO3
+44499683,8070/3-C64.9,Squamous cell carcinoma of kidney,ICDO3
+44499725,8071/3-C64.9,"Squamous cell carcinoma, keratinizing of kidney",ICDO3
+44499766,8964/3-C64.9,Clear cell sarcoma of kidney of kidney,ICDO3
+44499781,9680/3-C64.9,"Malignant lymphoma, large B-cell, diffuse of kidney",ICDO3
+44500002,8050/3-C64.9,Papillary carcinoma of kidney,ICDO3
+44500053,8130/2-C64.9,"Papillary transitional cell carcinoma, non-invasive of kidney",ICDO3
+44500140,8260/3-C64.9,Papillary adenocarcinoma of kidney,ICDO3
+44500204,8510/3-C64.9,Medullary carcinoma of kidney,ICDO3
+44500238,8071/3-C65.9,"Squamous cell carcinoma, keratinizing of renal pelvis",ICDO3
+44500252,8318/3-C64.9,"Renal cell carcinoma, sarcomatoid of kidney",ICDO3
+44500298,8270/3-C64.9,Chromophobe carcinoma of kidney,ICDO3
+44500337,8005/3-C64.9,"Malignant tumor, clear cell type of kidney",ICDO3
+44500375,8858/3-C64.9,Dedifferentiated liposarcoma of kidney,ICDO3
+44500376,8890/3-C64.9,Leiomyosarcoma of kidney,ICDO3
+44500449,8255/3-C64.9,Adenocarcinoma with mixed subtypes of kidney,ICDO3
+44500547,8851/3-C64.9,"Liposarcoma, well differentiated of kidney",ICDO3
+44500550,8959/3-C64.9,Malignant cystic nephroma of kidney,ICDO3
+44500641,8130/3-C65.9,Papillary transitional cell carcinoma of renal pelvis,ICDO3
+44500793,8290/0-C64.9,Oxyphilic adenoma of kidney,ICDO3
+44500811,9040/3-C64.9,Synovial sarcoma of kidney,ICDO3
+44500857,8120/3-C65.9,Transitional cell carcinoma of renal pelvis,ICDO3
+44500860,8140/3-C64.9,Adenocarcinoma of kidney,ICDO3
+44500914,9731/3-C64.9,Plasmacytoma of kidney,ICDO3
+44500978,8050/2-C65.9,Papillary carcinoma in situ of renal pelvis,ICDO3
+44501011,8246/3-C64.9,Neuroendocrine carcinoma of kidney,ICDO3
+44501084,8310/3-C65.9,Clear cell adenocarcinoma of renal pelvis,ICDO3
+44501338,8130/2-C65.9,"Papillary transitional cell carcinoma, non-invasive of renal pelvis",ICDO3
+44501546,9473/3-C64.9,Primitive neuroectodermal tumor of kidney,ICDO3
+44501642,8290/3-C64.9,Oxyphilic adenocarcinoma of kidney,ICDO3
+44501775,8070/3-C65.9,Squamous cell carcinoma of renal pelvis,ICDO3
+44501818,9120/3-C64.9,Hemangiosarcoma of kidney,ICDO3
+44501928,8041/3-C65.9,Small cell carcinoma of renal pelvis,ICDO3
+44501943,8490/3-C65.9,Signet ring cell carcinoma of renal pelvis,ICDO3
+44502071,9698/3-C65.9,"Follicular lymphoma, grade 3 of renal pelvis",ICDO3
+44502102,8230/3-C64.9,Solid carcinoma of kidney,ICDO3
+44502166,8122/3-C65.9,"Transitional cell carcinoma, spindle cell of renal pelvis",ICDO3
+44502250,8960/3-C64.9,Nephroblastoma of kidney,ICDO3
+44502273,8140/3-C65.9,Adenocarcinoma of renal pelvis,ICDO3
+44502385,8130/3-C64.9,Papillary transitional cell carcinoma of kidney,ICDO3
+44502393,8316/3-C64.9,Cyst-associated renal cell carcinoma of kidney,ICDO3
+44502490,9500/3-C64.9,Neuroblastoma of kidney,ICDO3
+44502509,8041/3-C64.9,Small cell carcinoma of kidney,ICDO3
+44502537,8320/3-C64.9,Granular cell carcinoma of kidney,ICDO3
+44502539,8323/3-C64.9,Mixed cell adenocarcinoma of kidney,ICDO3
+44502568,9734/3-C64.9,"Plasmacytoma, extramedullary of kidney",ICDO3
+44502667,9690/3-C64.9,Follicular lymphoma of kidney,ICDO3
+44502681,8032/3-C64.9,Spindle cell carcinoma of kidney,ICDO3
+44502688,8050/3-C65.9,Papillary carcinoma of renal pelvis,ICDO3
+44502792,8963/3-C64.9,Malignant rhabdoid tumor of kidney,ICDO3
+44502804,9680/3-C65.9,"Malignant lymphoma, large B-cell, diffuse of renal pelvis",ICDO3
+44502914,8035/3-C65.9,Carcinoma with osteoclast-like giant cells of renal pelvis,ICDO3
+44502969,8830/3-C64.9,Malignant fibrous histiocytoma of kidney,ICDO3
+44503002,8033/3-C64.9,Pseudosarcomatous carcinoma of kidney,ICDO3
+44503192,8010/3-C64.9,Carcinoma of kidney,ICDO3
+44782429,104931000119100,Chronic kidney disease due to hypertension,SNOMED
+44782689,129151000119102,Chronic kidney disease stage 4 due to hypertension,SNOMED
+44782690,129161000119100,Chronic kidney disease stage 5 due to hypertension,SNOMED
+44782691,129171000119106,Chronic kidney disease stage 3 due to hypertension,SNOMED
+44782692,129181000119109,Chronic kidney disease stage 2 due to hypertension,SNOMED
+44782703,117681000119102,Chronic kidney disease stage 1 due to hypertension,SNOMED
+44782717,153891000119101,End stage renal disease on dialysis due to hypertension,SNOMED
+44782728,15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure,SNOMED
+44783021,699055002,Prominent renal pelvis,SNOMED
+44783256,699322002,Matrix stone of kidney,SNOMED
+44784439,698591006,Benign hypertensive renal disease with renal failure,SNOMED
+44784588,698757009,Nephropathy due to acquired urinary tract obstruction,SNOMED
+44784621,8501000119104,Hypertensive heart and chronic kidney disease,SNOMED
+44784637,96701000119107,Hypertensive heart AND chronic kidney disease on dialysis,SNOMED
+44784638,96711000119105,Hypertensive heart AND chronic kidney disease stage 5,SNOMED
+44784639,96721000119103,Hypertensive heart AND chronic kidney disease stage 4,SNOMED
+44784640,96751000119106,Hypertensive heart AND chronic kidney disease stage 1,SNOMED
+44792226,324121000000109,CKD stage 1 with proteinuria,SNOMED
+44792227,324151000000104,CKD stage 1 without proteinuria,SNOMED
+44792228,324181000000105,CKD stage 2 with proteinuria,SNOMED
+44792229,324211000000106,CKD stage 2 without proteinuria,SNOMED
+44792230,324251000000105,CKD stage 3 with proteinuria,SNOMED
+44792231,324281000000104,CKD stage 3 without proteinuria,SNOMED
+44792232,324311000000101,CKD stage 3A with proteinuria,SNOMED
+44792249,324341000000100,CKD stage 3A without proteinuria,SNOMED
+44792250,324371000000106,CKD stage 3B with proteinuria,SNOMED
+44792251,324411000000105,CKD stage 3B without proteinuria,SNOMED
+44792252,324441000000106,CKD stage 4 with proteinuria,SNOMED
+44792253,324471000000100,CKD stage 4 without proteinuria,SNOMED
+44792254,324501000000107,CKD stage 5 with proteinuria,SNOMED
+44792255,324541000000105,CKD stage 5 without proteinuria,SNOMED
+44807050,824131000000108,Solitary kidney,SNOMED
+44808126,847791000000101,Rupture of artery of transplanted kidney,SNOMED
+44808127,847811000000100,Rupture of vein of transplanted kidney,SNOMED
+44808128,847851000000101,Acute renal failure due to traumatic rhabdomyolysis,SNOMED
+44808129,847881000000107,Stenosis of vein of transplanted kidney,SNOMED
+44808284,828971000000101,4-hydroxy-2-oxoglutarate aldolase deficiency,SNOMED
+44808338,840371000000100,Acute renal failure induced by aminoglycoside,SNOMED
+44808340,840451000000102,Acute renal failure induced by cyclosporin A,SNOMED
+44808744,841961000000100,Acute renal failure due to non-traumatic rhabdomyolysis,SNOMED
+44808821,842511000000101,Acute renal failure induced by animal toxin,SNOMED
+44808822,842531000000109,Acute renal failure induced by plant toxin,SNOMED
+44808823,842551000000102,Acute renal failure induced by heavy metal,SNOMED
+44809014,843691000000100,Urological complication of renal transplant,SNOMED
+44809061,851931000000107,Acute kidney injury stage 1,SNOMED
+44809062,851941000000103,Acute kidney injury stage 2,SNOMED
+44809063,851951000000100,Acute kidney injury stage 3,SNOMED
+44809170,844631000000104,Acute renal failure induced by poison,SNOMED
+44809172,844661000000109,Vascular complication of renal transplant,SNOMED
+44809173,844701000000103,Acute renal failure induced by radiographic contrast media,SNOMED
+44809286,844741000000100,Acute renal failure induced by solvent,SNOMED
+44809336,852981000000100,Aneurysm of vein of transplanted kidney,SNOMED
+44809340,853021000000108,Aneurysm of artery of transplanted kidney,SNOMED
+44809621,826271000000106,Acute nephropathy induced by heavy metals,SNOMED
+44810977,364981000000102,Recovery of kidney function,SNOMED
+44811351,864271000000105,Thrombosis of artery of transplanted kidney,SNOMED
+44811353,864311000000105,Thrombosis of vein of transplanted kidney,SNOMED
+44813789,840431000000109,Acute renal failure induced by cisplatin,SNOMED
+44813790,840471000000106,Acute renal failure induced by non-steroidal anti-inflammatory drug,SNOMED
+44813802,840961000000108,Thrombosis of stent of renal artery,SNOMED
+45757120,10752771000119100,Renal failure after ectopic pregnancy,SNOMED
+45757137,10757401000119104,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth,SNOMED
+45757139,10757481000119107,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy,SNOMED
+45757237,1086071000119103,Diphtheria tubulointerstitial nephropathy,SNOMED
+45757273,1092831000119109,Toxoplasma tubulointerstitial nephropathy,SNOMED
+45757356,118781000119108,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy,SNOMED
+45757360,120241000119100,Glomerulonephritis due to hepatitis C,SNOMED
+45757391,127901000119107,Light chain nephropathy due to plasma cell dyscrasia,SNOMED
+45757392,127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus,SNOMED
+45757393,128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED
+45757398,129721000119106,Acute renal failure on dialysis,SNOMED
+45757442,140031000119103,Acute nontraumatic kidney injury,SNOMED
+45757444,140101000119109,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,SNOMED
+45757445,140111000119107,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus,SNOMED
+45757446,140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,SNOMED
+45757447,140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus,SNOMED
+45757466,145681000119101,Acute renal failure due to tubular necrosis,SNOMED
+45757499,157141000119108,Proteinuria due to type 2 diabetes mellitus,SNOMED
+45757502,15911000119103,Primary tubulointerstitial nephritis,SNOMED
+45757535,18521000119106,Microalbuminuria due to type 1 diabetes mellitus,SNOMED
+45757604,243421000119104,Proteinuria due to type 1 diabetes mellitus,SNOMED
+45757744,367481000119108,Extrarenal uremia,SNOMED
+45757745,367511000119101,"Hereditary mesangiocapillary glomerulonephritis, type 2",SNOMED
+45757746,367521000119108,Hereditary diffuse crescentic glomerulonephritis,SNOMED
+45757747,367541000119102,Hereditary diffuse membranous glomerulonephritis,SNOMED
+45757748,367551000119100,Hereditary diffuse mesangial proliferative glomerulonephritis,SNOMED
+45757749,367561000119103,Hereditary diffuse mesangiocapillary glomerulonephritis,SNOMED
+45757750,367571000119109,Hereditary focal and segmental glomerular lesions,SNOMED
+45757751,367581000119107,Hereditary minor glomerular abnormality,SNOMED
+45757752,367591000119105,Hereditary nephropathy,SNOMED
+45757753,367621000119107,Hyperoxaluria,SNOMED
+45757756,367821000119106,Page kidney,SNOMED
+45757771,368961000119107,Partial nephrogenic diabetes insipidus,SNOMED
+45757772,369071000119105,Congenital renal cyst,SNOMED
+45757784,40391000119106,Secondary chronic nephritis,SNOMED
+45757792,4181000119109,Obstructive pyelonephritis,SNOMED
+45763578,5941000119101,Congenital single renal cyst,SNOMED
+45763661,700107006,Bartter syndrome antenatal type 1,SNOMED
+45763663,700109009,Bartter syndrome antenatal type 2,SNOMED
+45763665,700111000,Bartter syndrome type 3,SNOMED
+45763666,700112007,Bartter syndrome type 4,SNOMED
+45763854,700378005,Chronic kidney disease stage 3A,SNOMED
+45763855,700379002,Chronic kidney disease stage 3B,SNOMED
+45763913,700448000,"EAST (Epilepsy, ataxia, sensorineural deafness, and tubulopathy) syndrome",SNOMED
+45764421,7011000119105,Exudative nephritis,SNOMED
+45765414,702346005,Potocki-Shaffer syndrome,SNOMED
+45765451,702391001,Renal cell carcinoma,SNOMED
+45765455,702397002,Renal tubular dysgenesis,SNOMED
+45765710,702718005,Acute on chronic interstitial nephritis,SNOMED
+45766198,703310005,Autosomal dominant progressive nephropathy with hypertension,SNOMED
+45766812,704055002,Nephropathy induced by amphotericin,SNOMED
+45766935,704204003,Nephropathy induced by lead,SNOMED
+45766936,704205002,Nephropathy induced by tacrolimus,SNOMED
+45766937,704206001,Nephropathy induced by aminoglycoside,SNOMED
+45768672,707148007,Recurrent post-transplant renal disease,SNOMED
+45768718,707208009,Familial non-obstructive reflux-associated chronic pyelonephritis,SNOMED
+45768813,707324008,Anemia in end stage renal disease,SNOMED
+45768820,707332000,Recurrent proliferative glomerulonephritis,SNOMED
+45769152,707742001,Bartter syndrome,SNOMED
+45769160,707751009,Juxtaglomerular hyperplasia co-occurrent with secondary hyperaldosteronism,SNOMED
+45769163,707756004,Gitelman syndrome,SNOMED
+45769174,707770004,Congenital duplication of renal collecting system,SNOMED
+45769466,708127008,Collagenofibrotic glomerulopathy,SNOMED
+45769828,71441000119104,Nephrotic syndrome due to type 2 diabetes mellitus,SNOMED
+45769829,71721000119101,Nephrotic syndrome due to type 1 diabetes mellitus,SNOMED
+45769854,76401000119105,Congenital anomaly of ureter and renal pelvis,SNOMED
+45769862,79131000119100,Kidney lesion,SNOMED
+45769901,90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus,SNOMED
+45769902,90751000119109,Chronic kidney disease stage 4 due to type 1 diabetes mellitus,SNOMED
+45769903,90761000119106,Chronic kidney disease stage 5 due to type 1 diabetes mellitus,SNOMED
+45769904,90771000119100,End stage renal disease on dialysis due to type 1 diabetes mellitus,SNOMED
+45769905,90781000119102,Microalbuminuria due to type 2 diabetes mellitus,SNOMED
+45769906,90791000119104,End stage renal disease on dialysis due to type 2 diabetes mellitus,SNOMED
+45770823,94181000119108,Duplicated collecting system without obstruction,SNOMED
+45770835,98371000119102,Acquired complex renal cyst,SNOMED
+45770903,129561000119108,Prerenal renal failure,SNOMED
+45770906,195791000119101,Chronic proliferative glomerulonephritis,SNOMED
+45771034,707755000,Familial hypokalemic and hypomagnesemic tubulopathy,SNOMED
+45771064,71421000119105,Hypertension in chronic kidney disease due to type 2 diabetes mellitus,SNOMED
+45771067,71701000119105,Hypertension in chronic kidney disease due to type 1 diabetes mellitus,SNOMED
+45771069,74011000119107,Renal anasarca,SNOMED
+45771075,90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus,SNOMED
+45771482,705065000,Childhood nephrotic syndrome,SNOMED
+45772072,106911000119102,Idiopathic glomerulonephritis,SNOMED
+45772126,367531000119106,Hereditary diffuse endocapillary proliferative glomerulonephritis,SNOMED
+45772706,704203009,Nephropathy induced by cyclosporine,SNOMED
+45772751,704667004,Hypertension concurrent and due to end stage renal disease on dialysis,SNOMED
+45772914,707221002,Diabetic glomerulosclerosis,SNOMED
+45772946,707530009,Cystic hamartoma of lung and kidney,SNOMED
+45773214,50411000119108,Secondary tubulointerstitial nephritis,SNOMED
+45773365,702392008,Metastatic renal cell carcinoma,SNOMED
+45773576,90721000119101,Chronic kidney disease stage 1 due to type 1 diabetes mellitus,SNOMED
+45773688,96441000119101,Chronic kidney disease due to type 1 diabetes mellitus,SNOMED
+46270347,28191000119109,Chronic nephritic syndrome with membranous glomerulonephritis,SNOMED
+46270353,284961000119106,Chronic kidney disease due to benign hypertension,SNOMED
+46270354,284971000119100,Chronic kidney disease stage 1 due to benign hypertension,SNOMED
+46270355,284981000119102,Chronic kidney disease stage 2 due to benign hypertension,SNOMED
+46270356,285011000119108,Chronic kidney disease stage 5 due to benign hypertension,SNOMED
+46270384,295101000119105,Nephropathy co-occurrent and due to systemic lupus erythematosus,SNOMED
+46270481,320681000119102,Tubulointerstitial nephropathy due to Sjogren syndrome,SNOMED
+46271022,709044004,Chronic kidney disease,SNOMED
+46271739,709978007,Contracted kidney,SNOMED
+46272236,710565001,Ischemic nephropathy,SNOMED
+46272241,710571007,Renal dysplasia due to fetal exposure to angiotensin converting enzyme inhibitor,SNOMED
+46273053,711531007,Focal mesangial proliferative glomerulonephritis,SNOMED
+46273164,712487000,End stage renal disease due to benign hypertension,SNOMED
+46273514,285001000119105,Chronic kidney disease stage 4 due to benign hypertension,SNOMED
+46273636,284991000119104,Chronic kidney disease stage 3 due to benign hypertension,SNOMED
+46284566,949401000000103,CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1,SNOMED
+46284567,949421000000107,CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2,SNOMED
+46284570,949481000000108,CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3,SNOMED
+46284572,949521000000108,CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1,SNOMED
+46284575,949621000000109,CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3,SNOMED
+46284587,949881000000106,CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1,SNOMED
+46284588,949921000000100,CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3,SNOMED
+46284591,950061000000103,CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1,SNOMED
+46284592,950081000000107,CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2,SNOMED
+46284593,950101000000101,CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3,SNOMED
+46284597,950181000000106,CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1,SNOMED
+46284598,950211000000107,CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2,SNOMED
+46284599,950231000000104,CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3,SNOMED
+46284600,950251000000106,CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1,SNOMED
+46284602,950291000000103,CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2,SNOMED
+46284603,950311000000102,CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3,SNOMED
+46286992,949901000000109,CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2,SNOMED
+46287169,949561000000100,CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2,SNOMED
